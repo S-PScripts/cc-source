@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title data-l10n-content="REPORT_A_CONCERN"></title>
+  <link rel="icon" type="image/png" href="images/reportconcern_blue.png">
+  <link rel="stylesheet" type="text/css" href="css/reportconcern.brand.css" />
+  <link rel="stylesheet" type="text/css" href="css/reportconcern.css" />
+  <link rel="stylesheet" type="text/css" href="css/nss.css" />
+  <script src="js/lib/config.js"></script>
+  <script data-main="modules/ui/reportconcern" src="js/lib/require/require.js"></script>
+</head>
+
+<body class="concern page">
+  <article>
+    <form id="report-concern">
+      <div id="customHeader"
+        style="font-family: Verdana, Arial, Helvetica, sans-serif; display: flex; flex-direction: row; align-items: center; padding-top: 5px;padding-bottom: 5px; margin-top: 5px; height: 65px;">
+        <img src="images/reportconcern.png" width="35" height="35" style=" margin-left: 2%;align-self: center">
+        <label id="reportConcernTitle" data-i18n-content="REPORT_A_CONCERN" width="208" height="50" style=" margin-left: 2%;align-self: center; font-size: xx-large; color: white;">
+      </div>
+
+      <div class="reportconcern description">
+        <div id="infoText" style="overflow-y: auto; height: 98px;"></div>
+      </div>
+
+      <div id= "detailsDiv" ; style="display: flex; flex-direction: column; margin-top: 15px;">
+        <div style="display: flex; flex-direction: row;">
+          <input type="text" id="concern-reporter" maxlength="45"
+            style="border: 0px none; font-size: larger; font-weight: bolder;" data-i18n-placeholder="YOUR_NAME"></input>
+          <div id="concern-reporter-helptext" data-l10n-content="SO_WE_CAN_FOLLOW_UP"
+            style="margin-top:10px ; margin-left: 10px;"></div>
+        </div>
+        <div style="background-color: black; width:200px; height: 2px; margin-top: -5px;"></div>
+      </div>
+
+      <div id = "whatsConcerningYou" style="margin-top: 30px; margin-right: 3px; margin-bottom: 15px;">
+        <label id="concernTextDescription" data-l10n-content="TELL_US_YOUR_CONCERN"></label>
+        <textarea id="input" style="width:99.5%;height:85px; margin-top: 5px; margin-bottom: 5px; resize: none; "
+          maxlength="766"></textarea>
+          <div id="charCount">
+            <span id="current"></span>
+          </div>
+      </div>
+
+      <label id="concernRecipient" data-l10n-content="SELECT_WHO_TO_SEND_TO"></label>
+      <div id="contactContainer" class="contact-container" 
+        style="flex-direction: row;border:1px solid black; padding-top: 10px;overflow-x: auto; height: 160px; width:99.5%; scroll-padding-block-start: 100px;scroll-padding-inline-end: 60px;"></div>
+      <div style="display: flex; flex-direction: row; justify-content: flex-end; margin-top: 15px;">
+        <button id="cancel" data-l10n-content="CANCEL_CONCERN" style="margin-right:20px;"></button>
+        <button id="report" data-l10n-content="SUBMIT_CONCERN"></button>
+      </div>
+
+      <div id="customFooter"
+        style="display: flex; flex-direction: row; align-self: center;height:36px; margin-top: 15px;">
+        <span id="footerCustomSpan" style="position: relative; align-self: center; margin-left: 2%;"></span>
+      </div>
+    </form>
+  </article>
+
+</body>
+
+</html>

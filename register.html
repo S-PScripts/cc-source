@@ -1,0 +1,73 @@
+<html>
+<head>
+<title data-i18n-content="STUDENT_REGISTER"></title>
+<link rel="stylesheet" type="text/css" href="css/nss.css" />
+<script src="js/lib/require/config.js"></script>
+<script type="text/javascript" data-main="ui/register" src="js/lib/require/require.js"></script>
+
+
+<style type="text/css">
+#TeacherLabel, #LessonLabel, #RoomLabel, #firstName, #lastName{
+display:none;
+}
+</style>
+</head>
+<body>
+
+
+<div id="padder">
+
+</div>
+
+<div id="wrap">
+	<header><img src="images/register.png" style="vertical-align:middle;height:48px;width:48px;padding-right:20px;float:left"/><h1 data-i18n-content="STUDENT_REGISTER">NetSupport School > </h1></header>
+	<div id="main" class="registration">
+
+		<h2 data-i18n-content="CLASS_DETAILS"></h2>
+
+		<span id="teacher" class="details"><span class="label" data-i18n-content="TEACHER_NAME" id="teacherLabel" ></span>: <span id="teacherName"></span></span><br/>
+		<span id="lesson" class="details"><span class="label" data-i18n-content="LESSON_NAME" id="lessonLabel" ></span>: <span id="lessonName"></span></span><br/>
+		<span id="room" class="details"><span class="label" data-i18n-content="ROOM_NAME" id="roomLabel" ></span>: <span id="roomName"></span></span><br/>
+
+		<br/>
+
+		<div id="fullName">
+			<div class="regLine">
+				<span data-i18n-content="FIRST_NAME"></span> <input type="text" id="firstName" value="" maxlength="58"/><br/>
+			</div>
+			<div class="regLine">
+				<span data-i18n-content="LAST_NAME"></span> <input type="text" id="lastName" value="" maxlength="58"/><br/>
+			</div>
+			<div class="regLine">
+				<span data-i18n-content="CLASS_NAME"></span> <input type="text" id="className" value="" maxlength="58"/><br/>
+			</div>
+			<div class="regLine">
+				<span data-i18n-content="STUDENT_ID_NO"></span> <input type="text" id="studentID" value=""  maxlength="58"/><br/>
+			</div>
+			<div class="regLine">
+				<span data-i18n-content=""></span> <input type="text" id="custom1" value="" maxlength="58"/><br/>
+			</div>
+			<div class="regLine">
+				<span data-i18n-content=""></span> <input type="text" id="custom2" value="" maxlength="58"/><br/>
+			</div>
+		</div>
+		<div id="userNameOnly" style="display:none">
+		<span data-i18n-content="USERNAME"></span> <input type="text" id="userName" value="" maxlength="58"/><br/>
+		</div>
+		<br/>
+		<button id="registerBtn" data-i18n-content="REGISTER"></button><div id="status">&nbsp;</div>
+	</div>
+</div>
+
+<div id="footer">
+	<img src="images/school48.png" style="vertical-align:middle;height:48px;width:48px;padding-right:20px;"/> NetSupport Limited Copyright 2022
+</head>
+
+</div>
+
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+body{
+
+padding-bottom:0px;
+margin-bottom:0px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="css/nss.css" />
+<title data-i18n-content="MESSAGE"></title>
+<script src="js/lib/require/config.js"></script>
+<script type="text/javascript" data-main="ui/cicMessageDialog" src="js/lib/require/require.js"></script>
+
+
+</head>
+<body class="popup" style="display: flex; flex-direction: row;; background-repeat: no-repeat; align-items: center;">
+    <img src="images/LS-512-white-notext.png" width="100px" height="80px" style="margin-right: 30px;">
+    <div style="display: flex; flex-direction: column; width: 200px;margin-right:20px; height: 80px;" id="messageArea">
+        <div style="color: white; font-weight: 100; font-size: large;" id="messageTitle"></div>
+        <div style="color: white; font-weight: 100; font-size: small; margin-bottom: 5px;" id="messageDate"></div>
+        <div style="color: white; width: 300px; height: 70px;font-size: large;" class="disable-scrollbars" id="message"></div>
+   </div>
+    
+        <img id="dialogIcon" src="images/message_notification.png" width="72" height="72" style="margin-left: 330px;">
+</body>
+</html>

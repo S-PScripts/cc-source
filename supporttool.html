@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title data-i18n-content="OPTIONS"></title>
+    <link rel="stylesheet" type="text/css" href="css/nss.css" />
+    <script src="js/modules/ui/supporttool.js"></script>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+    </style>
+</head>
+
+<body>
+
+  
+    <h2 style="text-align: center;">Support Tool</h2> 
+ 
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <th class="supportTDHeader"  colspan="2">Device details</th>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="clientNameHeader">Client name</td>
+            <td class="supportTDGrey" id="clientName"></td>
+        </tr>
+
+        <tr>
+        <td class="supportTDGrey" id="assetIDHeader">Asset ID</td>
+        <td class="supportTDGrey" id="assetID"></td>
+        </tr> 
+
+        <tr>
+            <td class="supportTDGrey" id="deviceNameHeader">Device Name</td>
+            <td class="supportTDGrey" id="deviceName"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="chromeVersionHeader">Chrome version</td>
+            <td class="supportTDGrey" id="chromeVersion"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="directoryDeviceAPIHeader">Directory API ID</td>
+            <td class="supportTDGrey" id="directoryDeviceAPI"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="modelHeader">Model</td>
+            <td class="supportTDGrey" id="model"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="manufacturerHeader">Manufacturer</td>
+            <td class="supportTDGrey" id="manufacturer"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="serialNumberHeader">Serial number</td>
+            <td class="supportTDGrey" id="serialNumber"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="locationHeader">Location</td>
+            <td class="supportTDGrey" id="location"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="ipaddressHeader">IP Address</td>
+            <td class="supportTDGrey" id="ipaddress"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="allowedipsHeader">Privacy - allow connection IP addresses</td>
+            <td class="supportTDGrey" id="allowedConnectionIPs"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="allowedipsHeader">Activity Monitor - monitored IP addresses</td>
+            <td class="supportTDGrey" id="monitoredActivityMonitorIPs"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="allowedipsHeader">Online Safety - monitored IP addresses</td>
+            <td class="supportTDGrey" id="monitoredEsafetyIPs"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="allowedipsHeader">Internet Restrictions - restricted IP addresses</td>
+            <td class="supportTDGrey" id="internetRestrictedIPs"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="macAddressHeader">MAC Address</td>
+            <td class="supportTDGrey" id="macAddress"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="batterChargingHeader">Battery charging</td>
+            <td class="supportTDGrey" id="batterCharging"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="batteryLevelHeader">Battery level</td>
+            <td class="supportTDGrey" id="batteryLevel"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="networkTypeHeader">Network type</td>
+            <td class="supportTDGrey" id="networkType"></td>
+        </tr>
+
+        <tr>
+            <td class="supportTDGrey" id="isManagedHeader">Managed</td>
+            <td class="supportTDGrey" id="isManaged"></td>
+            </tr> 
+        <tr>
+            <th class="supportTDHeader" colspan="2">Company</th>
+        </tr>
+        <tr>
+            <td class = "supportTDGrey" id="softwareVersionHeader">Software version</td>
+            <td class = "supportTDGrey" id="softwareVersion"></td>
+        </tr>
+        <tr>
+            <td class = "supportTDGrey" id="siteHeader">Site</td>
+            <td class = "supportTDGrey" id="site"></td>
+        </tr>
+        <tr>
+            <td class = "supportTDGrey" id="deviceGroupHeader">Device group</td>
+            <td class = "supportTDGrey" id="deviceGroup"></td>
+        </tr>
+
+        <tr>
+            <td class = "supportTDGrey" id="safeguardingGroupHeader">Safeguarding group</td>
+            <td class = "supportTDGrey" id="safeguardingGroup"></td>
+        </tr>
+
+        <tr>
+            <td class = "supportTDGrey" id="accountIDHeader">Account ID</td>
+            <td class = "supportTDGrey" id="accountID"></td>
+        </tr>
+
+        <tr>
+            <td class = "supportTDGrey" id="supportGoogleOUHeader">Google organisational unit</td>
+            <td class = "supportTDGrey" id="supportGoogleOU"></td>
+        </tr>
+
+        <tr>
+            <th class="supportTDHeader" colspan="2">Classroom.cloud information</th>
+        </tr>
+        <tr>
+            <td class="supportTDGrey"  id="cloudStateHeader">Cloud state</td>
+            <td class="supportTDGrey"  id="cloudState"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey"  id="deviceStatusHeader">Device status</td>
+            <td class="supportTDGrey"  id="deviceStatus"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey"  id="regsionHeader">Region</td>
+            <td class="supportTDGrey"  id="region"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="timezoneidHeader">Timezone</td>
+            <td class="supportTDGrey" id="timezoneid"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="gatewayAddressHeader">Gateway address</td>
+            <td class="supportTDGrey" id="gatewayAddress"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="portHeader">Gateway port</td>
+            <td class="supportTDGrey" id="port"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="secondaryGatewayAddressHeader">Secondary Gateway address</td>
+            <td class="supportTDGrey" id="secondaryGatewayAddress"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="secondaryPortHeader">Gateway port</td>
+            <td class="supportTDGrey" id="secondaryPort"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="allowedTermDatesHeader">Allowed Term Dates</td>
+            <td class="supportTDGrey" id="allowedTermDates"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="allowedTimesHeader">Allowed Times</td>
+            <td class="supportTDGrey" id="allowedTimes"></td>
+        </tr>
+        <tr>
+            <td class="supportTDGrey" id="utctimeHeader">Last config update</td>
+            <td class="supportTDGrey" id="utctime"></td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
