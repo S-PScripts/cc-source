@@ -1,0 +1,1 @@
+require(["modules/translate","js/jquery-1.11.1.min.js","js/yEnc.js","js/view.js","js/clipboard.js","js/lock.js","js/keyboard.js","js/chromeguts.js","js/randomselectsplash.js","js/cicmessageaudio.js","js/webRTCTutorFullscreen.js","js/webRTCTutorWindowed.js","js/lib/Whammy.min.js"],function(s){s()});

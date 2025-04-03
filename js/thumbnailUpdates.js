@@ -1,0 +1,1 @@
+var time=1,thumbInterval=void 0;self.addEventListener("message",function(t){null!=t.data.thumbIntervalPeriod&&(time=t.data.thumbIntervalPeriod,thumbInterval=setInterval(function(){self.postMessage({updateThumbnails:!0})},1e3*parseInt(time))),1==t.data.thumbnailClearInterval&&null!=thumbInterval&&this.clearInterval(thumbInterval)});
