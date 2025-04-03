@@ -1,0 +1,1 @@
+!function(t){"function"==typeof define&&define.amd?define(["plugin"],t):"object"==typeof exports&&(module.exports=t(require("plugin")))}(function(e){return class{constructor(){}static send(t){e.appStart(t.id),e.appChange(t.url,t.title,t.id),e.webStart(t.url,t.title,t.id),e.appActivate(t.id)}}});

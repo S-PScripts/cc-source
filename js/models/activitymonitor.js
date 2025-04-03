@@ -1,0 +1,1 @@
+define(["background/storage"],function(e,n){return{config:{},configure:function(){require(["background/websocket"],function(e){e.updatewebdatatimer()}),require(["background/websocket"],function(e){e.updateLoginTimer()})}}});

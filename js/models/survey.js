@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define([""],e):"object"==typeof exports&&(module.exports=e(require()))}(function(){return class{constructor(e,t,i,n){this.Cid=e,this.Question=t,this.Answers=i,this.Type=n}}});

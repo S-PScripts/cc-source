@@ -1,0 +1,1 @@
+define(["models/login","background/storage"],function(o,n){var e={};return{logins:function(){return new Promise(function(n,e){n({logins:o.getLoginsArray()})})},clearLogins:function(){o.clearLoginArchive()},configure:function(){e.frequency&&n.set({options:{updateInterval:{seconds:e.frequency}}})},config:e,persistLogins:function(){o.persistence.save()}}});
