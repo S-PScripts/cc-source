@@ -1,2 +1,3 @@
 # cc-source
-Classroom.cloud Source
+- classroom.cloud Student extension files compiled
+- Done using https://robwu.nl/crxviewer/ (used extension ID: mpkdoimpgkhjcicmhmlmgboelebflpla)
