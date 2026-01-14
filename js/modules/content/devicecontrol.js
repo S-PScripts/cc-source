@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage({getLocal:!0,data:"muteSound"},function(e){1==e.muteSound&&chrome.runtime.sendMessage({muteSoundFromPage:!0})});

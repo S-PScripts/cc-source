@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(["logger"],e):"object"==typeof exports&&(module.exports=require("logger"))}(function(e){return e});

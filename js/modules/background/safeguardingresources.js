@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define("background/safeguardingresources",["background/storage"],e):"object"==typeof exports&&(module.exports=e(require("background/storage")))}(function(e){return{configure:function(e){e.SafegurdingReources&&(localStorage.safeguardingresources=e.SafegurdingReources)}}});

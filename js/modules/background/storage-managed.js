@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(e):"object"==typeof exports&&(module.exports=e())}(function(){var n=0;return chrome.runtime.sendMessage({isManaged:!0},function(e){e&&(n=1)}),{change:function(e){var n,o=Object.keys(e);for(n in o)e[o[n]].newValue},capable:n}});

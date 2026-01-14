@@ -1,0 +1,1 @@
+!function(e,n){"function"==typeof define&&define.amd?require(["content/keyHandlers","content/clipData"],n):"object"==typeof exports?module.exports=n(require("content/keyHandlers","content/clipData")):n(e.ns.content.keyHandlers,e.ns.content.clipData)}(this,function(e,n){e.listen(),n.listen()});

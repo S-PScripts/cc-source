@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define([],e):"object"==typeof exports&&(module.exports=e())}(function(){var e=document.getElementById("footer");null!==e&&e.innerText&&(e.innerText=e.innerText.replace("2016",(new Date).getFullYear()))});

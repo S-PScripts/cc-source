@@ -1,0 +1,1 @@
+var NSLibrary=NSLibrary||{};!function(e,i){e.NSLibrary.Client=e.NSLibrary.Client||{},"function"==typeof define&&define.amd?define([],i):"object"==typeof exports&&(module.exports=i())}(this,function(){return NSLibrary.Client});

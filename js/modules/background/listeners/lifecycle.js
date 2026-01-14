@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define([""],e):"object"==typeof exports&&(module.exports=e())}(function(e){var n={lastTime:Date.now(),isActive:function(){n.lastTime=Date.now()},openHandshake:void 0,check:function(){return n.lastTime+6e4>Date.now()}};return n});

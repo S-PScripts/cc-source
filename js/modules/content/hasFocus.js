@@ -1,0 +1,1 @@
+window.addEventListener("focus",function(){chrome.runtime.sendMessage({activePage:!0})}),window.addEventListener("load",function(){chrome.runtime.sendMessage({activePage:!0})});

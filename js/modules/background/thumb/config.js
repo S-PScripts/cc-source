@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(["settings"],e):"object"==typeof exports&&(module.exports=e(require("settings")))}(function(e){var t={sourceType:["screen"],constraints:{audio:!1,video:!0,frameRate:{ideal:15,min:.2}}};return{getConfig:function(){return new Promise(n=>{e.load("webrtc","managed").then(e=>{n(null!=e?e:t)})})}}});

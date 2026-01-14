@@ -1,0 +1,1 @@
+define(["background/phraseMatch"],function(c){return{receive:function(e,r){e.sg&&(r.phraseSource=e.source,c.process(e.sg,r)),e.vid&&c.processVid(e.vid)}}});

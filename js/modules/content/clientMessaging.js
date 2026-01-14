@@ -1,0 +1,1 @@
+!function(e,n){"function"==typeof define&&define.amd?define("content/clientMessaging",[],n):"object"==typeof exports?module.exports=n():(e.ns=e.ns||{content:{}},e.ns.content.clientMessaging=n())}(this,function(){function n(e,n){chrome.runtime&&chrome.runtime.sendMessage({sg:e,source:n})}return{keyEvent:function(e){n({keyPress:!0,data:e.which})},sendRuntime:n}});

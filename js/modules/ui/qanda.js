@@ -1,0 +1,1 @@
+window.onload=function(){NSLibrary.Translate(),0!==localStorage.QA.ThinkingTime?document.getElementById("countDown").innerHTML=localStorage.QA.ThinkingTime:document.getElementById("countDown").innerHTML=localStorage.QA.TimeLimit,document.getElementById("btn").onclick=function(){require(["modules/extension"],function(n){n.sendQAResponse(25,"sausage")})}};

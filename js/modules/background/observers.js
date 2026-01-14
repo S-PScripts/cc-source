@@ -1,0 +1,1 @@
+define("background/observers",[],function(){var e={};return{publish:function(n,r){var u=e[n];if(u)for(var i in u)u[i](r)},subscribe:function(n,r){e[n]?e[n].some(function(n){return n==r})||e[n].push(r):e[n]=[r]}}});

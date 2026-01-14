@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(e):"object"==typeof exports&&(module.exports=e())}(function(){return{transmit:function(e){chrome.runtime.lastError&&console.debug(chrome.runtime.lastError.message),localStorage.tabDisplay&&chrome.runtime.sendMessage(localStorage.tabDisplay,{tabImg:e})}}});

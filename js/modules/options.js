@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(["content/options","i18n","brand"],e):"object"==typeof exports&&(module.exports=e(require("content/options"),require("i18n"),require("brand")))}(function(e,n,o){e.setup()});

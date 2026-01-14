@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(["on/plugin","on/heartbeat","on/reconnect"],e):"object"==typeof exports&&(module.exports=(require("on/plugin"),require("on/heartbeat"),void require("on/reconnect")))}(()=>{});
