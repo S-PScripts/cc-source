@@ -1,0 +1,1 @@
+var gCurTime=(new Date).getTime();setInterval(function(){var e=(new Date).getTime();4e3<e-gCurTime&&postMessage("Reconnect"),gCurTime=e},2e3);
