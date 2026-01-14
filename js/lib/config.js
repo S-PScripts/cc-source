@@ -1,0 +1,1 @@
+var require={baseUrl:"/js",waitSeconds:5,paths:{jquery:"lib/jquery/jquery-1.11.1.min",background:"modules/background",i18n:"modules/background/i18n",content:"modules/content",logger:"modules/log",brand:"modules/brand"}};

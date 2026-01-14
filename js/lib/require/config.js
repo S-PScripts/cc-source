@@ -1,0 +1,1 @@
+var require={baseUrl:"/js",waitSeconds:200,paths:{jquery:"lib/jquery/jquery-1.11.1.min",background:"modules/background",content:"modules/content",ui:"modules/ui",on:"modules/background/listeners",i18n:"modules/background/i18n",logger:"modules/log",lang:"phrase/lang",brand:"modules/brand",labelsjs:"js/lib/chartjs/Chartjs-plugin-labels.min.js"}};

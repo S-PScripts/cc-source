@@ -1,0 +1,1 @@
+var require={baseUrl:chrome.runtime.getURL("/js"),waitSeconds:5,paths:{content:"modules/content"}};
