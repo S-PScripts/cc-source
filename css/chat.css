@@ -1,0 +1,143 @@
+td
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+
+#approvedList img{
+	margin-right:20px;
+}
+
+#approvedList a{
+	margin-left:20px;
+}
+
+#main
+{
+	padding-top:20px;
+	overflow:auto;
+	border-bottom:0;
+}
+
+#main div{
+	margin-bottom:10px;
+	clear:both;
+	border-bottom:0;
+
+}
+
+#title {
+    width:400px;
+	margin:auto;
+    font-weight:bold;
+}
+
+.chatArea
+{
+	margin:auto;
+	display: flex;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.chatArea #message
+{
+	flex-grow: 20;
+	resize: none;
+}
+
+.join
+{
+	color:#006400;
+}
+
+.leave
+{
+	color:#940000;
+}
+
+.message
+{
+	word-wrap:break-word;
+}
+
+/* .chatArea #sendButton
+{
+	width:90px;
+	height:39px;
+	margin-top: -38px;
+} */
+
+
+.chatArea #sendButton{
+	width: fit-content;
+	height: fit-content;
+	font-size: large;
+	background-color: #7cda24; 
+	box-shadow:  1px 3px 3px grey;
+	color:  white;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 3px;
+	font-weight:bold;
+	align-self: flex-end;
+	margin-top: -38px;
+	flex-grow: 1;
+}
+
+.chatArea #sendButton:hover{
+	width: fit-content;
+	height: fit-content;
+	font-size: large;
+	background-color: #6fc420; 
+	box-shadow:  1px 3px 3px grey;
+	color:  white;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 3px;
+	font-weight:bold;
+	align-self: flex-end;
+	margin-top: -38px;
+	flex-grow: 1;
+}
+
+.chatArea #sendButton:active{
+	width: fit-content;
+	height: fit-content;
+	font-size: large;
+	background-color: white; 
+	box-shadow:  1px 3px 3px grey;
+	color:   #6fc420;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 3px;
+	font-weight:bold;
+	align-self: flex-end;
+	margin-top: -38px;
+	flex-grow: 1;
+}
+
+
+
+body[lang="ru"] .chatArea #sendButton
+{
+	width:100px;
+	padding:.5em .4em .55em .6em;
+}
+
+.img48 {
+	vertical-align:middle;
+	height:48px;
+	width:48px;
+	padding-right:20px;
+}
+
+header img {
+	float:left;
+}
