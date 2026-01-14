@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define([],e):"object"==typeof exports&&(module.exports=e())}(function(){return{char:{l:/\|/g,a:/\@/g,t:/\+/g,i:/\!/g,s:/\$/g},delimiters:{word:/\t|,|\?|;|=|\\|:|�|_|\r\n/g,ignore:/<|>|\'|\\|\"|\`|\~|\*|\/|\#|\%|\^|\&|\(|\)|\{|\}|\[|\]|\�|\�|\�|\./g}}});
