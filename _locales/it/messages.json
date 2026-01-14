@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Siti web approvati"},"CHAT":{"message":"Conversare"},"SEND":{"message":"Invia"},"OPTIONS":{"message":"Opzioni"},"HELP_REQUEST":{"message":"Richieste di Aiuto"},"ROOM_MODE":{"message":"Modalit\u00e0 Stanza"},"SAVE":{"message":"Salva"},"LOCKED":{"message":"Bloccato"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Le opzioni di amministrazione sono protette"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Utilizzare Server Nome e Connettivit\u00e0"},"GATEWAY_ADDRESS":{"message":"Indirizzo Gateway"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Immettere l'indirizzo del gateway"},"GATEWAY_PORT":{"message":"Porta Gateway"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Immettere il numero di porta del gateway"},"TCP_LISTENING_PORT":{"message":"Porta di Ascolto TCP"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Immettere il Numero della Porta di Ascolto"},"ROOM_NAME":{"message":"Nome Stanza"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Questo Studente si trova sempre nella seguente stanza"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Questo Studente va da una classe all\u2019altra e pu\u00f2 trovarsi in una delle seguenti stanze"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Questo Studente va da una classe all\u2019altra e la stanza verr\u00e0 immessa manualmente"},"CLIENT_NAME":{"message":"Nome Client"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Immettere un nome che identifica questo Client"},"MAC_ADDRESS":{"message":"Indirizzo Mac"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Immettere un indirizzo MAC che identifica questo Client"},"KEYBOARD_LAYOUT":{"message":"Layout di Tastiera"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Selezionare il layout di tastiera del Client"},"PROTECT_THE_CONFIGURATION":{"message":"Proteggi la Configurazione"},"EXPORT_AS_FILE":{"message":"Esporta come File"},"POLICY_EXPORT_OPTIONS":{"message":"Opzioni di Esportazione Criteri"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Consenti Distribuzione Meta Url"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Input Url per Pagina di Distribuzione Meta"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Abilita Modifica di Nome Client"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Abilita Modifica di Nome Mac"},"GENERATE_FILE":{"message":"Genera File"},"DOWNLOAD":{"message":"Scarica"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Immettere la password"},"Q_AND_A_MODE":{"message":"Modalit\u00e0 D e Re"},"ANSWER":{"message":"Risposta"},"STUDENT_REGISTER":{"message":"Registro degli Studenti"},"CLASS_DETAILS":{"message":"Dettagli Classe"},"TEACHER_NAME":{"message":"Nome dell'Insegnante"},"LESSON_NAME":{"message":"Nome della Lezione"},"FIRST_NAME":{"message":"Nome"},"LAST_NAME":{"message":"Cognome"},"CLASS_NAME":{"message":"Nome della Classe"},"STUDENT_ID_NO":{"message":"IDN Studente"},"USERNAME":{"message":"Nome Utente"},"REGISTER":{"message":"Registro"},"SURVEY_RESULTS":{"message":"Risultati del sondaggio"},"STUDENT_SURVEY":{"message":"Sondaggio degli Studenti"},"QUESTION":{"message":"Domanda"},"ANSWERS":{"message":"Risposte"},"CLIENT_IS_REQUESTING_HELP":{"message":"Il Client sta richiedendo aiuto"},"SHOW":{"message":"Mostra"},"INTERNET_ACCESS_BLOCKED":{"message":"ACCESSO INTERNET BLOCCATO"},"SAYS":{"message":"dice"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER si \u00e8 unito"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER ha abbandonato"},"TOPIC":{"message":"Argomento"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Messaggio da PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Il Tutor ha abbandonato la chat."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Immettere i dettagli personali per il registro della lezione"},
+"RANDOM_SELECT_MSG": {
+    "message": "Sei stato selezionato casualmente"
+},
+"Q_AND_A_MSG": {
+    "message": "Messaggio da D e R"
+},
+"MSG_FROM": {
+    "message": "Messaggio da"
+},
+"ENROLL_DEVICE": {
+    "message": "Registra il dispositivo"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Immettere\u0020l\u0027ID\u0020del\u0020Sito"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Immettere\u0020l\u0027ID\u0020dell\u0027Account"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Immettere la Regione"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Abilita Strumento di supporto"
+},
+"ENROLL": {
+    "message": "Registra"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Conferma\u0020dell\u0027utente"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER desidera connettersi"
+},
+"ACCEPT": {
+    "message": "Accetta"
+},
+"REJECT": {
+    "message": "Rifiuta"
+},
+"IN_CLASS": {
+    "message": "Nella classe"
+},
+"AVAILABLE": {
+    "message": "Disponibile"
+},
+"LICENSED": {
+    "message": "Concesso in licenza"
+},
+"NOT_CONNECTED": {
+    "message": "Non connesso"
+},
+"UNLICENSED": {
+    "message": "Non concesso in licenza"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Rete non approvata"
+},
+"OUT_OF_HOURS": {
+    "message": "Fuori orario"
+},
+"MESSAGE": {
+    "message": "Messaggio"
+},
+"NONE": {
+    "message": "(nessuno)"
+},
+"WORKCOMPLETE": {
+    "message": "Lavoro completato"
+},
+"NEEDHELP": {
+    "message": "Richiede aiuto"
+},
+"URGENTHELP": {
+    "message": "Aiuto Urgente"
+},
+"ALERTTEACHER": {
+    "message": "Avvisa Insegnante:"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Annulla richiesta precedente"
+},
+"JOIN": {
+    "message": "Partecipa"
+},
+"CANCEL": {
+    "message": "Annulla"
+},
+"CLASSCODE": {
+    "message": "Codice di classe"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "In\u0020attesa\u0020della\u0020partecipazione\u0020dell\u0027insegnante..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Codice di classe non valido"
+},
+"CHATTOOLTIP": {
+    "message": "Chat"
+},
+"HELPTOOLTIP": {
+    "message": "Aiuto"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Obiettivi"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Richiedi una chat"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Richiedi\u0020aiuto\u0020dall\u0027insegnante"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Stato di Internet"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Mostra i tuoi obiettivi"
+},
+"NORESTRICTIONS": {
+    "message": "L\u0027accesso\u0020internet\u0020\u00E8\u0020senza\u0020restrizioni"
+},
+"APPROVEONLY": {
+    "message": "Sono\u0020applicabili\u0020le\u0020restrizioni\u0020internet\u000AFare\u0020clic\u0020sul\u0020pulsante\u0020Internet\u0020per\u0020un\u0020elenco\u0020dei\u0020siti\u0020web\u0020approvati"
+},
+"BLOCKRESTRICTED": {
+    "message": "Sono applicabili restrizioni internet"
+},
+"BLOCKALL": {
+    "message": "Accesso\u0020all\u0027internet\u0020bloccato"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Digitare il proprio nome"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Risorse di salvaguardia"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Collegamenti di supporto"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Nome"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefono"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Descrizione"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Ricerca..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Segnala un problema"
+},
+"YOUR_NAME": {
+    "message": "Il tuo nome"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "(in modo che possiamo seguire il tuo caso)"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Dicci\u0020quale\u0020\u00E8\u0020il\u0020problema"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Scegli a chi vuoi segnalare questo problema"
+},
+"CANCEL_CONCERN": {
+    "message": "Annulla"
+},
+"SUBMIT_CONCERN": {
+    "message": "Invia"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Fai clic se hai un problema"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Potete\u0020usarla\u0020per\u0020segnalare\u0020o\u0020condividere\u0020un\u0020problema\u0020con\u0020un\u0020membro\u0020del\u0020personale\u0020della\u0020scuola.\u0020Qualsiasi\u0020informazione\u0020fornita\u0020rimarr\u00E0\u0020strettamente\u0020riservata."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Immetti\u0020i\u0020dettagli\u0020del\u0020problema\u0020e\u0020qualsiasi\u0020informazione\u0020pertinente\u0020qui\u0020di\u0020seguito\u0020poi\u0020scegli\u0020il\u0020membro\u0020del\u0020personale\u0020con\u0020cui\u0020condividere\u0020il\u0020tuo\u0020problema\u0020nella\u0020casella\u0020in\u0020fondo."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Siamo spiacenti…impossibile inviare il tuo messaggio ora. Riprova in seguito."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Ricevuto\u0021\u0020Il\u0020tuo\u0020problema\u0020\u00E8\u0020nella\u0020nostra\u0020inbox\u0020e\u0020verrai\u0020ricontattato\u0020appena\u0020possibile."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Siamo\u0020spiacenti\u2026si\u0020\u00E8\u0020verificato\u0020un\u0020problema\u0020tecnico\u0020e\u0020stiamo\u0020cercando\u0020di\u0020correggerlo.\u0020Riprova\u0020in\u0020seguito."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Scorrere fino in fondo a questi criteri per confermare di averli letti"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Inserire il nome per confermare di avere letto e accettato questi criteri"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Confermo di avere letto e accettato questi criteri"
+},
+"PRINT_AUP": {
+    "message": "Stampa"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Criteri PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Obiettivi"
+},
+"LESSON_OUTCOMES":{
+    "message": "Risultato"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Cattura il desktop"
+}
+}

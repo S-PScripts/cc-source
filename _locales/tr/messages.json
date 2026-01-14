@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Onayl\u0131 Web Siteleri"},"CHAT":{"message":"Sohbet"},"SEND":{"message":"G\u00f6nder"},"OPTIONS":{"message":"Se\u00e7enekler"},"HELP_REQUEST":{"message":"Yard\u0131m \u0130ste\u011fi"},"ROOM_MODE":{"message":"Oda Modu"},"SAVE":{"message":"Kaydet"},"LOCKED":{"message":"Kilitli"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Y\u00f6netim se\u00e7enekleri korunmaktad\u0131r"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Ad ve Ba\u011flant\u0131 Sunucusu Kullan"},"GATEWAY_ADDRESS":{"message":"A\u011f Ge\u00e7idi Adresi"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"L\u00fctfen A\u011f Ge\u00e7idi Adresini girin"},"GATEWAY_PORT":{"message":"A\u011f Ge\u00e7idi Ba\u011flant\u0131 Noktas\u0131"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"L\u00fctfen A\u011f Ge\u00e7idinin Ba\u011flant\u0131 Noktas\u0131 Numaras\u0131n\u0131 girin"},"TCP_LISTENING_PORT":{"message":"TCP Dinleme Port'u"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"L\u00fctfen Dinleme Port Numaras\u00fdn\u00fd Giriniz"},"ROOM_NAME":{"message":"Oda Ad\u0131"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"\u00d6\u011frenci s\u00fcrekli olarak yandaki s\u0131n\u0131fta bulunmaktad\u0131r"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"\u00d6\u011frenci yanda belirtilen s\u0131n\u0131flardan birinde bulunmaktad\u0131r"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"\u00d6\u011frenci de\u011fi\u015fik s\u0131n\u0131flarda bulunabilece\u011finden bulundu\u011fu s\u0131n\u0131f elle girilmelidir"},"CLIENT_NAME":{"message":"\u0130stemci Ad\u0131"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"L\u00fctfen bu \u0130stemciyi belirten bir ad girin"},"MAC_ADDRESS":{"message":"Mac Adresi"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"L\u00fctfen bu \u0130stemciyi belirten bir MAC Adresi girin"},"KEYBOARD_LAYOUT":{"message":"Klavye D\u00fczeni"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"L\u00fctfen \u0130stemcinin Klavye D\u00fczenini Se\u00e7iniz"},"PROTECT_THE_CONFIGURATION":{"message":"Yap\u0131land\u0131rmay\u0131 Koru"},"EXPORT_AS_FILE":{"message":"Dosya Olarak G\u00f6nderin"},"POLICY_EXPORT_OPTIONS":{"message":"Politika G\u00f6nderme Se\u00e7enekleri"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Meta URL Da\u00f0\u00fdt\u00fdm\u00fdna \u00ddzin Verin"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Meta Da\u00f0\u00fdt\u00fdm Sayfas\u00fdn\u00fdn URL'sini Girin"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Kullan\u00fdc\u00fd \u00ddsim De\u00f0i\u00feikli\u00f0ine \u00ddzin Ver"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Mac Adres De\u00f0i\u00feikli\u00f0ine \u00ddzin Ver"},"GENERATE_FILE":{"message":"Dosya Olu\u00fetur"},"DOWNLOAD":{"message":"\u00ddndir"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"L\u00fctfen parolan\u0131z\u0131 girin"},"Q_AND_A_MODE":{"message":"Soru ve Yan\u0131t Modu"},"ANSWER":{"message":"Yan\u0131t"},"STUDENT_REGISTER":{"message":"\u00d6\u011frenci Kayd\u0131"},"CLASS_DETAILS":{"message":"S\u0131n\u0131f Ayr\u0131nt\u0131lar\u0131"},"TEACHER_NAME":{"message":"\u00d6\u011fretmen Ad\u0131"},"LESSON_NAME":{"message":"Ders Ad\u00fd"},"FIRST_NAME":{"message":"Ad\u0131"},"LAST_NAME":{"message":"Soyad\u0131"},"CLASS_NAME":{"message":"S\u0131n\u0131f Ad\u0131"},"STUDENT_ID_NO":{"message":"\u00d6\u011frenci No"},"USERNAME":{"message":"Kullan\u0131c\u0131 Ad\u0131"},"REGISTER":{"message":"Kaydet"},"SURVEY_RESULTS":{"message":"Anket Sonu\u00e7lar\u0131"},"STUDENT_SURVEY":{"message":"\u00d6\u011frenci Ara\u015ft\u0131rmas\u0131"},"QUESTION":{"message":"Soru"},"ANSWERS":{"message":"Yan\u0131tlar"},"CLIENT_IS_REQUESTING_HELP":{"message":"\u00ddstemci Yard\u00fdm \u00ddstiyor"},"SHOW":{"message":"G\u00f6ster"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNET ER\u0130\u015e\u0130M\u0130 ENGELLEND\u0130"},"SAYS":{"message":"\u015funu s\u00f6yledi"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER kat\u0131ld\u0131"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER \u00e7\u0131kt\u0131"},"TOPIC":{"message":"Konu Ba\u015fl\u0131\u011f\u0131"},"MESSAGE_FROM_PLACEHOLDER":{"message":"PLACEHOLDER \u00d6\u011fesinden \u0130leti"},"TUTOR_HAS_LEFT_CHAT":{"message":"\u00d6\u011fretmen sohbeti bitirdi."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"L\u00fctfen ders kayd\u0131 i\u00e7in ki\u015fisel bilgilerinizi girin"},
+"RANDOM_SELECT_MSG": {
+    "message": "Rastgele\u0020olarak\u0020se\u00E7ildiniz"
+},
+"Q_AND_A_MSG": {
+    "message": "Q ve A dan mesaj var"
+},
+"MSG_FROM": {
+    "message": "\u0027dan\u0020mesaj\u0020var"
+},
+"ENROLL_DEVICE": {
+    "message": "Cihaz\u00FD\u0020kaydet"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "L\u00FCtfen\u0020site\u0020kimli\u00F0inizi\u0020girin"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "L\u00FCtfen\u0020kullan\u00FDc\u00FD\u0020kimli\u00F0inizi\u0020girin"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "L\u00FCtfen\u0020b\u00F6lge\u0020girin"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Deste\u00F0ini\u0020Ara\u00E7\u0020\u0020Etkinle\u00FEtir"
+},
+"ENROLL": {
+    "message": "Kadet"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Kullan\u00FDc\u00FD\u0020Bilgilendirme"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER ba\u00F0lanmak\u0020istiyor"
+},
+"ACCEPT": {
+    "message": "kabul et"
+},
+"REJECT": {
+    "message": "reddet"
+},
+"IN_CLASS": {
+    "message": "S\u0131n\u0131fta"
+},
+"AVAILABLE": {
+    "message": "M\u00FCsait"
+},
+"LICENSED": {
+    "message": "Lisansl\u0131"
+},
+"NOT_CONNECTED": {
+    "message": "Ba\u011Fl\u0131\u0020de\u011Fil"
+},
+"UNLICENSED": {
+    "message": "Lisans\u0131\u0020kald\u0131r\u0131ld\u0131"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Onaylanmam\u0131\u015F\u0020a\u011F"
+},
+"OUT_OF_HOURS": {
+    "message": "Vakit\u0020farketmeksizin"
+},
+"MESSAGE": {
+    "message": "Mesaj"
+},
+"NONE": {
+    "message": "(yok)"
+},
+"WORKCOMPLETE": {
+    "message": "\u00C7al\u0131\u015Fma\u0020tamamland\u0131"
+},
+"NEEDHELP": {
+    "message": "Yard\u0131ma\u0020ihtiya\u00E7\u0020duyuluyor"
+},
+"URGENTHELP": {
+    "message": "Acil\u0020Yard\u0131m"
+},
+"ALERTTEACHER": {
+    "message": "\u00D6\u011Fretmeni\u0020Uyar\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "\u00D6nceki\u0020\u0130ste\u011Fi\u0020\u0130ptal\u0020Et"
+},
+"JOIN": {
+    "message": "kat\u0131l"
+},
+"CANCEL": {
+    "message": "iptal"
+},
+"CLASSCODE": {
+    "message": "S\u0131n\u0131f\u0020kodu"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "\u00F6\u011Fretmenin\u0020kat\u0131lmas\u0131\u0020bekleniyor.."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "ge\u00E7ersiz\u0020s\u0131n\u0131f\u0020kodu"
+},
+"CHATTOOLTIP": {
+    "message": "Sohbet"
+},
+"HELPTOOLTIP": {
+    "message": "Yard\u0131m"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Hedefler"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Sohbet iste"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "\u00D6\u011Fretmenden\u0020yard\u0131m\u0020iste"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internet Durumu"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Hedeflerinizi\u0020g\u00F6sterin"
+},
+"NORESTRICTIONS": {
+    "message": "Internet\u0020eri\u015Fimi\u0020s\u0131n\u0131rl\u0131\u0020de\u011Fil"
+},
+"APPROVEONLY": {
+    "message": "Internet\u0020k\u0131s\u0131tlamalar\u0131\u0020vard\u0131r\u000AOnaylanm\u0131\u015F\u0020web\u0020sitelerinin\u0020listesi\u0020i\u00E7in\u0020Internet\u0020d\u00FC\u011Fmesini\u0020t\u0131klat\u0131n"
+},
+"BLOCKRESTRICTED": {
+    "message": "Internet\u0020k\u0131s\u0131tlamalar\u0131\u0020vard\u0131r"
+},
+"BLOCKALL": {
+    "message": "Internet\u0020eri\u015Fimi\u0020engellendi"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "L\u00FCtfen\u0020ad\u0131n\u0131z\u0131\u0020girin"
+},
+"OK": {
+    "message": "Tamam"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Koruma\u0020Kaynaklar\u0131"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Destek Linkleri"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Ad"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "A\u00E7\u0131klama"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Ara..."
+},
+"REPORT_A_CONCERN": {
+    "message": "\u015Eikayet\u0020bildirin"
+},
+"YOUR_NAME": {
+    "message": "Ad\u0131n\u0131z"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028B\u00F6ylece\u0020sizi\u0020bilgilendirebiliriz\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Bize\u0020\u015Fikayetinizi\u0020s\u00F6yleyin"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Bu\u0020sorunu\u0020kime\u0020bildirmek\u0020istedi\u011Finizi\u0020se\u00E7in"
+},
+"CANCEL_CONCERN": {
+    "message": "\u0130ptal"
+},
+"SUBMIT_CONCERN": {
+    "message": "G\u00F6nder"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Bir\u0020sorunla\u0020ar\u015F\u0131la\u015Ft\u0131ysan\u0131z\u0020t\u0131klay\u0131n"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "\u015Eikayet\u0020bildirmek\u0020veya\u0020sorununu\u0020bir\u0020\u00F6\u011Fretmeninle\u0020payla\u015Fmak\u0020i\u00E7in\u0020buray\u0131\u0020kullanabilirsin.\u0020Payla\u015Ft\u0131\u011F\u0131n\u0020her\u0020\u015Fey\u0020en\u0020kat\u0131\u0020gizlilik\u0020\u015Fartlar\u0131\u0020\u00E7er\u00E7evesinde\u0020de\u011Ferlendirilecektir."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "\u015Eikayetini\u0020detayl\u0131\u0020bir\u0020\u015Fekilde\u0020a\u015Fa\u011F\u0131ya\u0020yaz\u002C\u0020ard\u0131ndan\u0020a\u015Fa\u011F\u0131daki\u0020kutucuktan\u0020\u015Fikayetini\u0020payla\u015Fmak\u0020istedi\u011Fin\u0020\u00F6\u011Fretmeni\u0020se\u00E7."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "\u00DCzg\u00FCn\u00FCz\u2026\u0020mesaj\u0131n\u0131z\u0020\u015Fu\u0020anda\u0020g\u00F6nderilemiyor.\u0020L\u00FCtfen\u0020daha\u0020sonra\u0020tekrar\u0020deneyiniz."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Mesaj\u0131n\u0131\u0020ald\u0131k\u0021\u0020\u015Eikayetin\u0020gelen\u0020kutumuza\u0020ula\u015Ft\u0131\u002C\u0020en\u0020k\u0131sa\u0020zamanda\u0020sana\u0020geri\u0020d\u00F6nece\u011Fiz."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "\u00DCzg\u00FCn\u00FCz\u2026\u0020baz\u0131\u0020teknik\u0020aksakl\u0131klar\u0020olu\u015Ftu\u002C\u0020sorunu\u0020gidermeye\u0020\u00E7al\u0131\u015F\u0131yoruz.\u0020L\u00FCtfen\u0020daha\u0020sonra\u0020tekrar\u0020deneyiniz."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Okudu\u00F0unuzu\u0020onaylamak\u0020i\u00E7in\u0020ilkenin\u0020en\u0020alt\u00FDna\u0020gidin"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Bu\u0020politikay\u00FD\u0020okudu\u00F0unuzu\u0020ve\u0020kabul\u0020etti\u00F0inizi\u0020onaylamak\u0020i\u00E7in\u0020ad\u00FDn\u00FDz\u00FD\u0020girin"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Bu\u0020ilkeyi\u0020okudu\u00F0umu\u0020ve\u0020kabul\u0020etti\u00F0imi\u0020onayl\u00FDyorum"
+},
+"PRINT_AUP": {
+    "message": "Yazd\u00FDr"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "\u00DDlke PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Hedefler"
+},
+"LESSON_OUTCOMES":{
+    "message": "Sonu\u00E7"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Masa\u00FCst\u00FCn\u00FC\u0020yakala"
+}
+}

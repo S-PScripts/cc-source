@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Laman Web Yang Diluluskan"},"CHAT":{"message":"perbualan"},"SEND":{"message":"Hantar"},"OPTIONS":{"message":"Pilihan"},"HELP_REQUEST":{"message":"Permintaan Pertolongan"},"ROOM_MODE":{"message":"Mod Bilik"},"SAVE":{"message":"Save"},"LOCKED":{"message":"Dikunci"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Pilihan Pentadbiran dilindungi"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Guna Nama dan Sambungan Server"},"GATEWAY_ADDRESS":{"message":"Alamat Gateway"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Sila Masukkan Alamat Gateway"},"GATEWAY_PORT":{"message":"Port Gateway"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Sila Masukkan Nombor Port Untuk Gateway"},"TCP_LISTENING_PORT":{"message":"Lubang Mendengar TCP"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Sila masukkan port nombor yang didengari"},"ROOM_NAME":{"message":"Nama Ruang"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Pelajar ini sentiasa berada di bilik berikut"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Pelajar ini berpindah kelas dan mungkin berada di salah satu bilik berikut"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Pelajar ini berpindah kelas dan bilik akan dimasukkan secara manual"},"CLIENT_NAME":{"message":"Name Pelanggan"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Sila Masukkan Nama Yang Mengenalpastikan Pelanggan Ini"},"MAC_ADDRESS":{"message":"Alamat Mac"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Sila Masukkan Alamat Mac Yang Mengenalpastikan Pelanggan Ini"},"KEYBOARD_LAYOUT":{"message":"Layout Keyboard"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Sila Pilih Layout Keyboard Pelanggan"},"PROTECT_THE_CONFIGURATION":{"message":"Melindungi Penyelarasan ini"},"EXPORT_AS_FILE":{"message":"Eksport sebagai fail"},"POLICY_EXPORT_OPTIONS":{"message":"Pilihan Polisi Eksport"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Membenarkan Penukaran Meta URL"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Input URL untuk penukaran laman meta"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Membolehkan penukaran nama pelanggan"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Membolehkan penukaran alamat Mac"},"GENERATE_FILE":{"message":"Menjana Fail"},"DOWNLOAD":{"message":"Muat turun"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Sila masukkan kata laluan anda"},"Q_AND_A_MODE":{"message":"Mod Soalan Jawapan"},"ANSWER":{"message":"Jawapan"},"STUDENT_REGISTER":{"message":"Pendaftaran Pelajar"},"CLASS_DETAILS":{"message":"Maklumat Kelas"},"TEACHER_NAME":{"message":"Name Guru"},"LESSON_NAME":{"message":"Nama Pelajaran"},"FIRST_NAME":{"message":"Nama Panggilan"},"LAST_NAME":{"message":"Name Keluarga"},"CLASS_NAME":{"message":"Nama Kelas"},"STUDENT_ID_NO":{"message":"ID Pelajar"},"USERNAME":{"message":"Name Pengguna"},"REGISTER":{"message":"Daftar"},"SURVEY_RESULTS":{"message":"Keputusan Tinjauan"},"STUDENT_SURVEY":{"message":"Tinjauan Pelajar"},"QUESTION":{"message":"Soalan"},"ANSWERS":{"message":"Jawapan"},"CLIENT_IS_REQUESTING_HELP":{"message":"Pelanggan Meminta Pertolongan"},"SHOW":{"message":"Tunjuk"},"INTERNET_ACCESS_BLOCKED":{"message":"Akses Laman Web Disekat"},"SAYS":{"message":"berkata"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER telah menyertai"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER Keluar Dari Sesi Perbualan"},"TOPIC":{"message":"Topik"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Pesanan daripada PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Tutor telah meninggalkan perbualan"},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Sila Nyatakan Maklumat Diri Untuk Pendaftaran Pelajaran"},
+"RANDOM_SELECT_MSG": {
+    "message": "Anda telah dipilih secara rawak"
+},
+"Q_AND_A_MSG": {
+    "message": "Mesej daripada Soal dan Jawab"
+},
+"MSG_FROM": {
+    "message": "Mesej daripada"
+},
+"ENROLL_DEVICE": {
+    "message": "Daftar peranti"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Sila masukkan ID Laman"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Sila masukkan akaun ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Sila masukkan wilayah"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Aktifkan alat sokongan"
+},
+"ENROLL": {
+    "message": "Mendaftar"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Pengakuan pengguna"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER ingin berhubung"
+},
+"ACCEPT": {
+    "message": "terima"
+},
+"REJECT": {
+    "message": "tolak"
+},
+"IN_CLASS": {
+    "message": "Dalam kelas"
+},
+"AVAILABLE": {
+    "message": "Tersedia"
+},
+"LICENSED": {
+    "message": "Berlesen"
+},
+"NOT_CONNECTED": {
+    "message": "Tidak disambungkan"
+},
+"UNLICENSED": {
+    "message": "Tidak berlesen"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Rangkaian Tidak Diluluskan"
+},
+"OUT_OF_HOURS": {
+    "message": "Selepas waktu bekerja"
+},
+"MESSAGE": {
+    "message": "Mesej"
+},
+"NONE": {
+    "message": "(Tiada)"
+},
+"WORKCOMPLETE": {
+    "message": "Kerja Selesai"
+},
+"NEEDHELP": {
+    "message": "Perlu Bantuan"
+},
+"URGENTHELP": {
+    "message": "Segera Bantuan"
+},
+"ALERTTEACHER": {
+    "message": "Butiran isyarat:"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Batalkan terdahulu permintaan"
+},
+"JOIN": {
+    "message": "Sertai"
+},
+"CANCEL": {
+    "message": "Batal"
+},
+"CLASSCODE": {
+    "message": "Kod kelas"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Menunggu Guru"
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Kod tidak sah"
+},
+"CHATTOOLTIP": {
+    "message": "Perbualan"
+},
+"HELPTOOLTIP": {
+    "message": "Bantuan"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Objektif"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Mohon perbualan"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Mohon bantuan daripada guru"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Status Internet"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Tunjukkan Objektif Anda"
+},
+"NORESTRICTIONS": {
+    "message": "Akses Internet Tidak Terhad"
+},
+"APPROVEONLY": {
+    "message": "Berlaku sekatan Internet\u000AKlik butang untuk senarai laman web yang diluluskan"
+},
+"BLOCKRESTRICTED": {
+    "message": "Sekatan internet dikenakan"
+},
+"BLOCKALL": {
+    "message": "Akses Internet telah disekat"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Sila masukkan nama anda"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Pautan bantuan"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Sokongan Dalam Talian"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Nama"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Penerangan"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Cari..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Melaporkan kebimbangan"
+},
+"YOUR_NAME": {
+    "message": "Nama anda"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "(Jadi kami boleh menghubungi anda semula)"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Maklumkan kami apa yang anda bimbangkan"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Pilih siapa yang anda suka untuk melaporkan kebimbangan ini"
+},
+"CANCEL_CONCERN": {
+    "message": "Batal"
+},
+"SUBMIT_CONCERN": {
+    "message": "Hantar"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Klik jika ada mempunyai kebimbangan"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Anda boleh menggunakan laporan ini atau berkongsi kebimbangan ini dengan kakitangan di sekolah. Apa-apa sahaja yang anda kongsikan akan dilayan dengan sebaiknya."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Masukkan butiran kebimbangan anda dengan maklumat berkaitan dan pilih bilangan kakitangan  di bahagian bawah"
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Harap maaf.  Pesanan anda tidak dapat dihantar pada masa sekarang. Sila cuba sebentar lagi"
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Telah diterima. Kebimbangan anda telah berada dalam semakan kami and kami akan menghubungi anda secepat mungkin"
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Harap maaf. Kami sedang mengalami masalah teknikal dan sedang cuba memperbetulkannya, Sila cuba sebentar lagi"
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Tatal ke bahagian bawah dasar untuk mengakui anda telah membacanya"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Masukkan nama anda untuk mengesahkan anda telah membaca dan bersetuju dengan dasar ini"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Saya mengaku saya telah membaca dan bersetuju dengan dasar ini"
+},
+"PRINT_AUP": {
+    "message": "Cetak"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Dasar PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Tujuan"
+},
+"LESSON_OUTCOMES":{
+    "message": "Hasil"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Tangkap desktop"
+}
+}

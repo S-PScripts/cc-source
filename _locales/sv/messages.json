@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Godk\u00e4nda webbplatser"},"CHAT":{"message":"Chatta"},"SEND":{"message":"Skicka"},"OPTIONS":{"message":"Alternativ"},"HELP_REQUEST":{"message":"Hj\u00e4lpf\u00f6rfr\u00e5gan"},"ROOM_MODE":{"message":"Ruml\u00e4ge"},"SAVE":{"message":"Spara"},"LOCKED":{"message":"L\u00e5st"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Administrationsalternativ \u00e4r skyddade"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Anv\u00e4nd namn och anslutningsserver"},"GATEWAY_ADDRESS":{"message":"Gatewayadress"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Ange gatewayadressen"},"GATEWAY_PORT":{"message":"N\u00e4tport"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Ange portnummer f\u00f6r denna gateway"},"TCP_LISTENING_PORT":{"message":"Tcp Listening Port"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"V\u00e4nligen fyll i Tcp Listening Portens nummer"},"ROOM_NAME":{"message":"Rummets namn"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Denna student befinner sig alltid i f\u00f6ljande rum"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Denna student flyttar mellan lektioner och kan befinna sig i n\u00e5got av f\u00f6ljande rum"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Denna student flyttar mellan lektioner och rummet anges manuellt"},"CLIENT_NAME":{"message":"Klientnamn"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Ange ett namn som identifierar klienten"},"MAC_ADDRESS":{"message":"MACadress"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Ange en MACadress som identifierar klienten"},"KEYBOARD_LAYOUT":{"message":"Layout tangentbord"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"V\u00e4lj tangentbordslayout f\u00f6r klienten"},"PROTECT_THE_CONFIGURATION":{"message":"Skydda konfigurationen"},"EXPORT_AS_FILE":{"message":"Exportera som fil"},"POLICY_EXPORT_OPTIONS":{"message":"Alternativ f\u00f6r policy export"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Till\u00e5t Url f\u00f6r Metadistribution"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Mata in Url f\u00f6r Metadistributionssida"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Till\u00e5t Klient namn\u00e4ndring"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Till\u00e5t Mac adress\u00e4ndring"},"GENERATE_FILE":{"message":"Skapa fil"},"DOWNLOAD":{"message":"H\u00e4mta"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Var god skriv in ditt l\u00f6senord"},"Q_AND_A_MODE":{"message":"Fr\u00e5gor och svarl\u00e4ge"},"ANSWER":{"message":"Svar"},"STUDENT_REGISTER":{"message":"Studentregister"},"CLASS_DETAILS":{"message":"lektionsuppgifter"},"TEACHER_NAME":{"message":"L\u00e4rarens namn"},"LESSON_NAME":{"message":"Namn p\u00e5 lektion"},"FIRST_NAME":{"message":"F\u00f6rnamn"},"LAST_NAME":{"message":"Efternamn"},"CLASS_NAME":{"message":"Lektionens namn"},"STUDENT_ID_NO":{"message":"Student IDNr"},"USERNAME":{"message":"Anv\u00e4ndarnamn"},"REGISTER":{"message":"Registrera"},"SURVEY_RESULTS":{"message":"Enk\u00e4tresultat"},"STUDENT_SURVEY":{"message":"Student unders\u00f6kning"},"QUESTION":{"message":"Fr\u00e5ga"},"ANSWERS":{"message":"Svar"},"CLIENT_IS_REQUESTING_HELP":{"message":"Klienten har beg\u00e4rt hj\u00e4lp"},"SHOW":{"message":"Visning"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNET\u00c5TKOMST BLOCKERAD"},"SAYS":{"message":"s\u00e4ger"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER har g\u00e5tt med"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER har g\u00e5tt ur"},"TOPIC":{"message":"\u00c4mne"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Meddelande fr\u00e5n PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Handledaren har l\u00e4mnat chatten."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Var god ange dina personuppgifter f\u00f6r lektionsregistret"},
+"RANDOM_SELECT_MSG": {
+    "message": "Du\u0020har\u0020slumpm\u00E4ssigt\u0020valts"
+},
+"Q_AND_A_MSG": {
+    "message": "Meddelande\u0020fr\u00E5n\u0020Fr\u00E5gor\u0020och\u0020svar"
+},
+"MSG_FROM": {
+    "message": "Meddelande\u0020fr\u00E5n"
+},
+"ENROLL_DEVICE": {
+    "message": "Registrera enhet"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Ange\u0020anl\u00E4ggnings-ID"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Ange konto-ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Ange region"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Aktivera\u0020Supportverktyg"
+},
+"ENROLL": {
+    "message": "Registrera"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Anv\u00E4ndarbekr\u00E4ftelse"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER vill ansluta"
+},
+"ACCEPT": {
+    "message": "Acceptera"
+},
+"REJECT": {
+    "message": "Avvisa"
+},
+"IN_CLASS": {
+    "message": "P\u00E5\u0020lektion"
+},
+"AVAILABLE": {
+    "message": "Tillg\u00E4nglig"
+},
+"LICENSED": {
+    "message": "Licensierad"
+},
+"NOT_CONNECTED": {
+    "message": "Ej\u0020ansluten"
+},
+"UNLICENSED": {
+    "message": "Olicensierad"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Ej\u0020godk\u00E4nt\u0020n\u00E4tverk"
+},
+"OUT_OF_HOURS": {
+    "message": "Utanf\u00F6r\u0020arbetstid"
+},
+"MESSAGE": {
+    "message": "Meddelande"
+},
+"NONE": {
+    "message": "(inga)"
+},
+"WORKCOMPLETE": {
+    "message": "Arbete\u0020slutf\u00F6rt"
+},
+"NEEDHELP": {
+    "message": "Beh\u00F6ver\u0020hj\u00E4lp"
+},
+"URGENTHELP": {
+    "message": "Hj\u00E4lp\u0020snabbt"
+},
+"ALERTTEACHER": {
+    "message": "Varna\u0020l\u00E4rare\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Avbryt\u0020f\u00F6reg\u00E5ende\u0020f\u00F6rfr\u00E5gan"
+},
+"JOIN": {
+    "message": "G\u00E5\u0020med"
+},
+"CANCEL": {
+    "message": "Avbryt"
+},
+"CLASSCODE": {
+    "message": "Klasskod"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "V\u00E4ntar\u0020p\u00E5\u0020att\u0020l\u00E4raren\u0020ska\u0020g\u00E5\u0020med..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Ogiltig Klasskod"
+},
+"CHATTOOLTIP": {
+    "message": "Chatta"
+},
+"HELPTOOLTIP": {
+    "message": "Hj\u00E4lp"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "M\u00E5l"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Beg\u00E4r\u0020chatt"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Hj\u00E4lpf\u00F6rfr\u00E5gan\u0020fr\u00E5n\u0020l\u00E4raren"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internetstatus"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Visa\u0020dina\u0020m\u00E5l"
+},
+"NORESTRICTIONS": {
+    "message": "Internet-\u00E5tkomst\u0020obegr\u00E4nsad"
+},
+"APPROVEONLY": {
+    "message": "Internetbegr\u00E4nsningar\u0020g\u00E4ller\u000AKlicka\u0020p\u00E5\u0020knappen\u0020Internet\u0020f\u00F6r\u0020en\u0020lista\u0020\u00F6ver\u0020godk\u00E4nda\u0020webbplatser"
+},
+"BLOCKRESTRICTED": {
+    "message": "Internetbegr\u00E4nsningar\u0020g\u00E4ller"
+},
+"BLOCKALL": {
+    "message": "Internet-\u00E5tkomst\u0020blockerad"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "V\u00E4nligen\u0020mata\u0020in\u0020ditt\u0020namn"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Sj\u00E4lvhj\u00E4lpsresurser"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "onlinesupport"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Namn"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Beskrivning"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "S\u00F6k..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Rapportera ett problem"
+},
+"YOUR_NAME": {
+    "message": "Ditt namn"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028S\u00E5\u0020att\u0020vi\u0020kan\u0020f\u00F6lja\u0020upp\u0020dig\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Ber\u00E4tta\u0020vad\u0020ditt\u0020problem\u0020\u00E4r"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "V\u00E4lj\u0020vem\u0020du\u0020skulle\u0020vilja\u0020rapportera\u0020problemet\u0020till"
+},
+"CANCEL_CONCERN": {
+    "message": "avbryt"
+},
+"SUBMIT_CONCERN": {
+    "message": "Skicka in"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Klicka om du har ett problem"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Du\u0020kan\u0020anv\u00E4nda\u0020detta\u0020f\u00F6r\u0020att\u0020rapportera\u0020eller\u0020dela\u0020ett\u0020problem\u0020med\u0020en\u0020anst\u00E4lld\u0020p\u00E5\u0020skolan.\u0020Allt\u0020du\u0020delar\u0020h\u00E4r\u0020kommer\u0020att\u0020behandlas\u0020strikt\u0020konfidentiellt."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Ange\u0020detaljerna\u0020om\u0020ditt\u0020problem\u0020nedan\u0020med\u0020all\u0020relevant\u0020information\u0020och\u0020v\u00E4lj\u0020sedan\u0020den\u0020anst\u00E4llde\u0020fr\u00E5n\u0020rutan\u0020l\u00E4ngst\u0020ned\u0020som\u0020ditt\u0020problem\u0020kommer\u0020att\u0020delas\u0020med."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Vi\u0020beklagar\u2026ditt\u0020meddelande\u0020kan\u0020inte\u0020skickas\u0020just\u0020nu.\u0020V\u00E4nligen\u0020f\u00F6rs\u00F6k\u0020igen\u0020senare."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Vi\u0020har\u0020mottagit\u0020det\u0021\u0020Ditt\u0020problem\u0020\u00E4r\u0020i\u0020v\u00E5r\u0020inkorg\u0020och\u0020vi\u0020\u00E5terkommer\u0020till\u0020dig\u0020s\u00E5\u0020snart\u0020vi\u0020kan."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Vi\u0020beklagar\u2026n\u00E5got\u0020tekniskt\u0020har\u0020g\u00E5tt\u0020fel\u0020och\u0020vi\u0020f\u00F6rs\u00F6ker\u0020att\u0020l\u00F6sa\u0020det.\u0020V\u00E4nligen\u0020f\u00F6rs\u00F6k\u0020igen\u0020senare."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Bl\u00E4ddra\u0020till\u0020slutet\u0020av\u0020policyn\u0020f\u00F6r\u0020att\u0020bekr\u00E4fta\u0020att\u0020du\u0020har\u0020l\u00E4st\u0020den"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Skriv\u0020ditt\u0020namn\u0020f\u00F6r\u0020att\u0020bekr\u00E4fta\u0020att\u0020du\u0020har\u0020l\u00E4st\u0020och\u0020samtycker\u0020till\u0020policyn"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Jag\u0020bekr\u00E4ftar\u0020att\u0020jag\u0020har\u0020l\u00E4st\u0020och\u0020samtycker\u0020till\u0020policyn"
+},
+"PRINT_AUP": {
+    "message": "Skriv ut"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Policy PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "M\u00E5l"
+},
+"LESSON_OUTCOMES":{
+    "message": "Resultat"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Inh\u00E4mta\u0020skrivbord"
+}
+}

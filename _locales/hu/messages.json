@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Enged\u00e9lyezett Weboldalak"},"CHAT":{"message":"T\u00e1rsalg\u00e1s"},"SEND":{"message":"K\u00fcld\u00e9s"},"OPTIONS":{"message":"Opci\u00f3k"},"HELP_REQUEST":{"message":"Seg\u00edts\u00e9g k\u00e9r\u00e9s"},"ROOM_MODE":{"message":"Tanterem \u00fczemm\u00f3d"},"SAVE":{"message":"Ment\u00e9s"},"LOCKED":{"message":"Z\u00e1rolva"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Az Adminisztr\u00e1l\u00e1s funkci\u00f3 jelsz\u00f3val v\u00e9dett"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"N\u00e9v \u00e9s Connectivity (gateway) szerver haszn\u00e1lata"},"GATEWAY_ADDRESS":{"message":"\u00c1tj\u00e1r\u00f3 c\u00edme"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"K\u00e9rem adja meg a Gateway c\u00edm\u00e9t"},"GATEWAY_PORT":{"message":"\u00c1tj\u00e1r\u00f3 Port"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"K\u00e9rem adja meg a Gateway port sz\u00e1m\u00e1t"},"TCP_LISTENING_PORT":{"message":"TCP figyel\u00f5 (listening) port"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"\u00cdrja be a figyel\u00f5 (listening) port sz\u00e1m\u00e1t"},"ROOM_NAME":{"message":"Terem neve"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Ez a Di\u00e1k mindig a ebben a teremben tart\u00f3zkodik"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Ez a Di\u00e1k v\u00e1ltoztatja a hely\u00e9t, az al\u00e1bbi termek k\u00f6z\u00fcl az egyikben tart\u00f3zkodik"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Ez a Di\u00e1k v\u00e1ltoztatja a hely\u00e9t, a termet manu\u00e1lisan adja meg"},"CLIENT_NAME":{"message":"Kliens neve"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"K\u00e9rem adja meg ennek a kliensnek az azonos\u00edt\u00f3 nev\u00e9"},"MAC_ADDRESS":{"message":"Mac c\u00edm"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"K\u00e9rem adja meg ennek a kliensnek a MAC c\u00edm\u00e9t"},"KEYBOARD_LAYOUT":{"message":"Billenty\u0171zet kioszt\u00e1s"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"V\u00e1lasszon Billenty\u0171zet Kioszt\u00e1st Ehhez A Felhaszn\u00e1l\u00f3hoz"},"PROTECT_THE_CONFIGURATION":{"message":"A konfigur\u00e1ci\u00f3 v\u00e9delme"},"EXPORT_AS_FILE":{"message":"Export\u00e1l\u00e1s f\u00e1jlk\u00e9nt"},"POLICY_EXPORT_OPTIONS":{"message":"Ir\u00e1nyelv export\u00e1l\u00e1si lehet\u00f5s\u00e9gek"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Meta Url telep\u00edt\u00e9s enged\u00e9lyez\u00e9se"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Adjon meg Url-t a Meta telep\u00edt\u00e9si oldalhoz"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Kliens n\u00e9v v\u00e1ltoztat\u00e1s enged\u00e9lyez\u00e9se"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Mac Adress v\u00e1ltoztat\u00e1s enged\u00e9lyez\u00e9se"},"GENERATE_FILE":{"message":"F\u00e1jl gener\u00e1l\u00e1sa"},"DOWNLOAD":{"message":"Let\u00f6lt\u00e9s"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"K\u00e9rj\u00fck, adja meg a jelszav\u00e1t"},"Q_AND_A_MODE":{"message":"Q \u00e9s A m\u00f3d"},"ANSWER":{"message":"V\u00e1lasz"},"STUDENT_REGISTER":{"message":"Jelenl\u00e9ti \u00edv"},"CLASS_DETAILS":{"message":"Az \u00f3ra adatai"},"TEACHER_NAME":{"message":"Oktat\u00f3 neve"},"LESSON_NAME":{"message":"\u00d3ra neve"},"FIRST_NAME":{"message":"Keresztn\u00e9v"},"LAST_NAME":{"message":"Vezet\u00e9k n\u00e9v"},"CLASS_NAME":{"message":"\u00d3ra neve"},"STUDENT_ID_NO":{"message":"Di\u00e1k azonos\u00edt\u00f3 IDNo"},"USERNAME":{"message":"Felhaszn\u00e1l\u00f3n\u00e9v"},"REGISTER":{"message":"Bejelentkez\u00e9s"},"SURVEY_RESULTS":{"message":"Felm\u00e9r\u00e9s eredm\u00e9nyek"},"STUDENT_SURVEY":{"message":"Di\u00e1k felm\u00e9r\u0151 k\u00e9rd\u00e9s"},"QUESTION":{"message":"K\u00e9rd\u00e9s"},"ANSWERS":{"message":"V\u00e1laszok"},"CLIENT_IS_REQUESTING_HELP":{"message":"A kliens seg\u00edts\u00e9get k\u00e9r"},"SHOW":{"message":"Bemutat\u00e1s"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNET EL\u00c9R\u00c9S TILTVA"},"SAYS":{"message":"mondja"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER kapcsol\u00f3dott"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER kil\u00e9pett"},"TOPIC":{"message":"T\u00e9ma"},"MESSAGE_FROM_PLACEHOLDER":{"message":"PLACEHOLDER \u00fczenete"},"TUTOR_HAS_LEFT_CHAT":{"message":"A tan\u00e1r kil\u00e9pett a t\u00e1rsalg\u00e1sb\u00f3l."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"K\u00e9rem hogy adja meg a szem\u00e9lyes adatait a regisztr\u00e1ci\u00f3hoz"},
+"RANDOM_SELECT_MSG": {
+    "message": "Sorsol\u00E1ssal\u0020v\u00E1lasztott\u00E1k"
+},
+"Q_AND_A_MSG": {
+    "message": "\u00DCzenet\u0020a\u0020Q\u0020\u0026\u0020A"
+},
+"MSG_FROM": {
+    "message": "\u00DCzenete\u0020a"
+},
+"ENROLL_DEVICE": {
+    "message": "Eszk\u00F6z\u0020regisztr\u00E1l\u00E1sa"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Adja\u0020meg\u0020Hely\u0020azonos\u00EDt\u00F3ja"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Adja\u0020meg\u0020Sz\u00E1mlaazonos\u00EDt\u00F3"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Adja\u0020meg\u0020r\u00E9gi\u00F3"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Enged\u00E9lyez\u0020Support\u0020Tool"
+},
+"ENROLL": {
+    "message": "Regisztr\u00E1l\u00E1sa"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Felhaszn\u00E1l\u00F3i\u0020nyugt\u00E1z\u00E1s"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER szeretne\u0020kapcsol\u00F3dni"
+},
+"ACCEPT": {
+    "message": "Elfogad"
+},
+"REJECT": {
+    "message": "Visszautas\u00EDt\u00E1s"
+},
+"IN_CLASS": {
+    "message": "\u00D3r\u00E1n"
+},
+"AVAILABLE": {
+    "message": "El\u00E9rhet\u0151"
+},
+"LICENSED": {
+    "message": "Licencelt"
+},
+"NOT_CONNECTED": {
+    "message": "Nem csatlakozott"
+},
+"UNLICENSED": {
+    "message": "Nem licencelt"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Nem\u0020elfogadott\u0020h\u00E1l\u00F3zat"
+},
+"OUT_OF_HOURS": {
+    "message": "\u00D3r\u00E1kon\u0020k\u00EDv\u00FCl"
+},
+"MESSAGE": {
+    "message": "\u00DCzenet"
+},
+"NONE": {
+    "message": "(semmi)"
+},
+"WORKCOMPLETE": {
+    "message": "Feladat\u0020k\u00E9sz"
+},
+"NEEDHELP": {
+    "message": "Seg\u00EDts\u00E9g\u0020sz\u00FCks\u00E9ges"
+},
+"URGENTHELP": {
+    "message": "S\u00FCrg\u0151s\u0020seg\u00EDts\u00E9g"
+},
+"ALERTTEACHER": {
+    "message": "Tan\u00E1r\u0020riaszt\u00E1sa\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Az\u0020el\u0151z\u0151\u0020k\u00E9r\u00E9s\u0020t\u00F6rl\u00E9se"
+},
+"JOIN": {
+    "message": "R\u00E9sztvesz"
+},
+"CANCEL": {
+    "message": "M\u00E9gse"
+},
+"CLASSCODE": {
+    "message": "Oszt\u00E1lyk\u00F3d"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "V\u00E1rakoz\u00E1s\u0020a\u0020tan\u00E1rra..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "\u00C9rv\u00E9nytelen\u0020oszt\u00E1lyk\u00F3dk\u00F3d"
+},
+"CHATTOOLTIP": {
+    "message": "T\u00E1rsalg\u00E1s"
+},
+"HELPTOOLTIP": {
+    "message": "S\u00FAg\u00F3"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "T\u00E1rgyak"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "T\u00E1rsalg\u00E1s\u0020ind\u00EDt\u00E1s"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Seg\u00EDts\u00E9g\u0020k\u00E9r\u00E9s\u0020a\u0020tan\u00E1rt\u00F3l"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internet\u0020\u00E1llapota"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Tant\u00E1rgyai\u0020megjelen\u00EDt\u00E9se"
+},
+"NORESTRICTIONS": {
+    "message": "Internet\u0020hozz\u00E1f\u00E9r\u00E9s\u0020nincs\u0020tiltva"
+},
+"APPROVEONLY": {
+    "message": "Internet\u0020korl\u00E1toz\u00E1s\u0020\u00E9rv\u00E9nyes\u00EDt\u00E9se\u000AKattintson\u0020az\u0020Internet\u0020gombra\u0020a\u0020l\u00E1togathat\u00F3\u0020honlapok\u0020list\u00E1j\u00E1hoz"
+},
+"BLOCKRESTRICTED": {
+    "message": "Internet\u0020fel\u00FCgyelet\u0020\u00E9rv\u00E9nyes\u00EDt\u00E9se"
+},
+"BLOCKALL": {
+    "message": "Internet\u0020hozz\u00E1f\u00E9r\u00E9s\u0020tiltva"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "K\u00E9rem\u002C\u0020adja\u0020meg\u0020a\u0020nev\u00E9t"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Biztons\u00E1gi\u0020adatk\u00E9szletek"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "T\u00E1mogatott\u0020linkek"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "N\u00E9v"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Le\u00EDr\u00E1s"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Keres\u00E9s..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Agg\u00E1ly\u0020bejelent\u00E9se"
+},
+"YOUR_NAME": {
+    "message": "Az\u0020\u00D6n\u0020neve"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028\u00CDgy\u0020k\u00F6vethetj\u00FCk\u0020\u00D6nt\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Mondja\u0020el\u0020nek\u00FCnk\u002C\u0020mi\u0020a\u0020probl\u00E9ma"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "V\u00E1lassza\u0020ki\u002C\u0020hogy\u0020kinek\u0020szeretn\u00E9\u0020jelenteni\u0020ezt\u0020a\u0020probl\u00E9m\u00E1t"
+},
+"CANCEL_CONCERN": {
+    "message": "Megszak\u00EDt\u00E1s"
+},
+"SUBMIT_CONCERN": {
+    "message": "Bek\u00FCld\u00E9s"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Kattintson\u002C\u0020ha\u0020agg\u00E1lya\u002C\u0020gondja\u0020van"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Ezzel\u0020jelentheti\u0020vagy\u0020megoszthatja\u0020aggodalm\u00E1t\u0020az\u0020iskola\u0020egyik\u0020alkalmazottj\u00E1val.\u0020Mindent\u002C\u0020amit\u0020itt\u0020megoszt\u002C\u0020a\u0020legszigor\u00FAbb\u0020bizalmasan\u0020kezel\u00FCnk."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Adja\u0020meg\u0020aggodalm\u00E1nak\u0020r\u00E9szleteit\u0020al\u00E1bb\u0020a\u0020vonatkoz\u00F3\u0020inform\u00E1ci\u00F3kkal\u0020egy\u00FCtt\u002C\u0020majd\u0020v\u00E1lassza\u0020ki\u0020az\u0020alul\u0020tal\u00E1lhat\u00F3\u0020mez\u0151b\u0151l\u0020azt\u0020a\u0020munkat\u00E1rsat\u002C\u0020akivel\u0020megosztja\u0020aggodalm\u00E1t."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Sajn\u00E1ljuk\u002C\u0020\u00FCzenet\u00E9t\u0020jelenleg\u0020nem\u0020lehet\u0020elk\u00FCldeni.\u0020K\u00E9rem\u002C\u0020pr\u00F3b\u00E1lkozzon\u0020\u00FAjra\u0020k\u00E9s\u0151bb."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Megkaptuk\u0021\u0020Agg\u00E1lya\u002C\u0020probl\u00E9m\u00E1ja\u0020a\u0020postafi\u00F3kunkban\u0020van\u002C\u0020\u00E9s\u0020amint\u0020taudunk\u002C\u0020v\u00E1laszolunk."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Sajn\u00E1ljuk...\u0020valami\u0020m\u0171szaki\u0020hiba\u0020t\u00F6rt\u00E9nt\u002C\u0020\u00E9s\u0020megpr\u00F3b\u00E1ljuk\u0020kijav\u00EDtani.\u0020K\u00E9rem\u002C\u0020pr\u00F3b\u00E1lja\u0020\u00FAjra\u0020k\u00E9s\u0151bb."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "G\u00F6rgessen\u0020le\u0020a\u0020szab\u00E1lyzat\u0020alj\u00E1ra\u002C\u0020\u00E9s\u0020er\u0151s\u00EDtse\u0020meg\u002C\u0020hogy\u0020elolvasta"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Adja\u0020meg\u0020nev\u00E9t\u002C\u0020hogy\u0020meger\u0151s\u00EDtse\u002C\u0020hogy\u0020elolvasta\u0020\u00E9s\u0020elfogadja\u0020ezt\u0020a\u0020szab\u00E1lyzatot"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Kijelentem\u002C\u0020hogy\u0020elolvastam\u0020\u00E9s\u0020elfogadom\u0020ezt\u0020a\u0020szab\u00E1lyzatot"
+},
+"PRINT_AUP": {
+    "message": "Nyomtat\u00E1s"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "H\u00E1zirend PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "C\u00E9lok"
+},
+"LESSON_OUTCOMES":{
+    "message": "V\u00E9geredm\u00E9ny"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Az\u0020asztal\u0020r\u00F6gz\u00EDt\u00E9se"
+}
+}

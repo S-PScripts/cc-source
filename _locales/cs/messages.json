@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Povolen\u00e9 webov\u00e9 str\u00e1nky"},"CHAT":{"message":"Chat"},"SEND":{"message":"Odeslat"},"OPTIONS":{"message":"Mo\u017enosti"},"HELP_REQUEST":{"message":"N\u00e1pov\u011bda"},"ROOM_MODE":{"message":"Re\u017eim m\u00edstnosti"},"SAVE":{"message":"Ulo\u017eit"},"LOCKED":{"message":"Uzam\u010den\u00fd"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Volby spr\u00e1vy jsou chr\u00e1n\u011bn\u00e9"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Pou\u017e\u00edt jm\u00e9no a server p\u0159ipojen\u00ed"},"GATEWAY_ADDRESS":{"message":"Adresa Gateway"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Pros\u00edm vlo\u017ete adresu Gateway"},"GATEWAY_PORT":{"message":"Port Gateway"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Pros\u00edm vlo\u017ete \u010d\u00edslo portu Gateway"},"TCP_LISTENING_PORT":{"message":"Tcp poslechov\u00fd port"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Pros\u00edm vlo\u017ete \u00e8\u00edslo poslechov\u00e9 portu"},"ROOM_NAME":{"message":"Jm\u00e9no m\u00edstnosti"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Tento Student je v\u017edy um\u00edst\u011bn v n\u00e1sleduj\u00edc\u00ed m\u00edstnosti"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Tento Student p\u0159esune u\u010deben a m\u016f\u017ee b\u00fdt v jedn\u00e9 z n\u00e1sleduj\u00edc\u00edch m\u00edstnost\u00ed"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Tento Student p\u0159esune u\u010deben a jeho m\u00edstnost bude zad\u00e1na manu\u00e1ln\u011b"},"CLIENT_NAME":{"message":"Jm\u00e9no klienta"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Pros\u00edm vlo\u017ete jm\u00e9no kter\u00e9 identifikuje tohoto Klientat"},"MAC_ADDRESS":{"message":"Mac adresa"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Pros\u00edm vlo\u017ete MAC adresu kter\u00e1 identifikuje tohoto Klienta"},"KEYBOARD_LAYOUT":{"message":"Rozvr\u017een\u00ed kl\u00e1vesnice"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Pros\u00edm zvolte rozlo\u017een\u00ed kl\u00e1vesnice u tohoto klienta"},"PROTECT_THE_CONFIGURATION":{"message":"Chr\u00e1nit Konfiguraci"},"EXPORT_AS_FILE":{"message":"Exportovat soubor"},"POLICY_EXPORT_OPTIONS":{"message":"Mo\u017enosti podm\u00ednek exportu"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Povolit rozvinut\u00ed Meta Url"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Vlo\u017eit Url pro rozvinut\u00ed Meta str\u00e1nky"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Povolit zm\u00ecnu jm\u00e9na klienta"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Povolit zm\u00ecnu adresy Mac"},"GENERATE_FILE":{"message":"Vygenerovat soubor"},"DOWNLOAD":{"message":"St\u00e1hnout"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Zadejte pros\u00edm va\u0161e heslo"},"Q_AND_A_MODE":{"message":"Re\u017eim Q  A"},"ANSWER":{"message":"Odpov\u011b\u010f"},"STUDENT_REGISTER":{"message":"Registr Studenta"},"CLASS_DETAILS":{"message":"Detaily t\u0159\u00eddy"},"TEACHER_NAME":{"message":"Jm\u00e9no u\u010ditele"},"LESSON_NAME":{"message":"N\u00e1zev lekce"},"FIRST_NAME":{"message":"K\u0159estn\u00ed jm\u00e9no"},"LAST_NAME":{"message":"P\u0159\u00edjmen\u00ed"},"CLASS_NAME":{"message":"N\u00e1zev t\u0159\u00eddy"},"STUDENT_ID_NO":{"message":"Identifika\u010dn\u00ed \u010d\u00edslo studenta"},"USERNAME":{"message":"U\u017eivatelsk\u00e9 jm\u00e9no"},"REGISTER":{"message":"Registrace"},"SURVEY_RESULTS":{"message":"V\u00fdsledky pr\u016fzkumu"},"STUDENT_SURVEY":{"message":"Pr\u016fzkum Studenta"},"QUESTION":{"message":"Dotaz"},"ANSWERS":{"message":"Odpov\u011bdi"},"CLIENT_IS_REQUESTING_HELP":{"message":"Klient \u017e\u00e1d\u00e1 o n\u00e1pov\u00ecdu"},"SHOW":{"message":"Ukazov\u00e1n\u00ed"},"INTERNET_ACCESS_BLOCKED":{"message":"P\u0158\u00cdSTUP K INTERNETU BLOKOV\u00c1N"},"SAYS":{"message":"\u0159\u00edk\u00e1"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER se p\u0159ipojil"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER ode\u0161el"},"TOPIC":{"message":"T\u00e9ma"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Zpr\u00e1va od PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Tutor opustil chat"},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Pros\u00edm uve\u010fte Va\u0161e osobn\u00ed \u00fadaje pro registraci k lekci"},
+"RANDOM_SELECT_MSG": {
+    "message": "Byl jste n\u00E1hodn\u011B vybr\u00E1n"
+},
+"Q_AND_A_MSG": {
+    "message": "Zpr\u00E1va od Q \u0026 A"
+},
+"MSG_FROM": {
+    "message": "Zpr\u00E1va od"
+},
+"ENROLL_DEVICE": {
+    "message": "Zaregistrovat za\u0159\u00EDzen\u00ED"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Zadejte ID lokality"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Zadejte ID \u00FA\u010Dtu"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Zadejte Oblast"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Umo\u017Enit N\u00E1stroj Podpory"
+},
+"ENROLL": {
+    "message": "Zaregistrovat"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Potvrzen\u00ED u\u017Eivatele"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER p\u0159eje si nav\u00E1zat spojen\u00ED"
+},
+"ACCEPT": {
+    "message": "Souhlas\u00EDm"
+},
+"REJECT": {
+    "message": "Zam\u00EDtnout"
+},
+"IN_CLASS": {
+    "message": "In t\u0159\u00EDda"
+},
+"AVAILABLE": {
+    "message": "K dispozici"
+},
+"LICENSED": {
+    "message": "Licencov\u00E1no"
+},
+"NOT_CONNECTED": {
+    "message": "Nep\u0159ipojen"
+},
+"UNLICENSED": {
+    "message": "Nelicencov\u00E1no"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Nepovolen\u00E1 s\u00ED\u0165"
+},
+"OUT_OF_HOURS": {
+    "message": "Mimo hodiny"
+},
+"MESSAGE": {
+    "message": "Zpr\u00E1va"
+},
+"NONE": {
+    "message": "\u0028\u017E\u00E1dn\u00FD\u0029"
+},
+"WORKCOMPLETE": {
+    "message": "Pr\u00E1ce\u0020skon\u010Dena"
+},
+"NEEDHELP": {
+    "message": "Pot\u0159eba\u0020pomoci"
+},
+"URGENTHELP": {
+    "message": "Urgentn\u00ED\u0020pomoc"
+},
+"ALERTTEACHER": {
+    "message": "Upozornit\u0020u\u010Ditele\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Zru\u0161it\u0020P\u0159edchoz\u00ED\u0020Po\u017Eadavek"
+},
+"JOIN": {
+    "message": "P\u0159idat"
+},
+"CANCEL": {
+    "message": "Zru\u0161it"
+},
+"CLASSCODE": {
+    "message": "K\u00F3d\u0020t\u0159\u00EDdy"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "\u010Cek\u00E1n\u00ED\u0020na\u0020u\u010Ditele..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Neplatn\u00FD\u0020k\u00F3d\u0020t\u0159\u00EDdy"
+},
+"CHATTOOLTIP": {
+    "message": "Chat"
+},
+"HELPTOOLTIP": {
+    "message": "Pomoc"
+},
+"INTERNETOOLTIP": {
+    "message": "Internetu"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "C\u00EDle"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Po\u017E\u00E1dat\u0020o\u0020chat"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Po\u017E\u00E1dejte\u0020o\u0020pomoc\u0020u\u010Ditele"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Stav Internetu"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Zobrazit\u0020Va\u0161e\u0020c\u00EDle"
+},
+"NORESTRICTIONS": {
+    "message": "P\u0159\u00EDstup\u0020k\u0020internetu\u0020je\u0020bez\u0020omezen\u00ED"
+},
+"APPROVEONLY": {
+    "message": "Omezen\u00ED\u0020Internetu\u0020jsou\u0020spu\u0161tena\u000AKlikn\u011Bte\u0020na\u0020tla\u010D\u00EDtko\u0020Internet\u0020pro\u0020seznam\u0020povolen\u00FDch\u0020webov\u00FDch\u0020str\u00E1nek"
+},
+"BLOCKRESTRICTED": {
+    "message": "Omezen\u00ED\u0020na\u0020internet\u0020jsou\u0020aktivn\u00ED"
+},
+"BLOCKALL": {
+    "message": "P\u0159\u00EDstup\u0020k\u0020interentu\u0020je\u0020blokov\u00E1n"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Zadejte\u002C\u0020pros\u00EDm\u002C\u0020sv\u00E9\u0020jm\u00E9no"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Zdroje\u0020samoobslu\u017En\u00E9\u0020pomoci"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Online podpora"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Jm\u00E9no"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Popis"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Prohledat..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Nahlaste\u0020zji\u0161t\u011Bn\u00FD\u0020probl\u00E9m"
+},
+"YOUR_NAME": {
+    "message": "Va\u0161e\u0020jm\u00E9no"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028abychom\u0020v\u00E1s\u0020mohli\u0020kontaktovat\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Popi\u0161te\u0020pros\u00EDm\u0020probl\u00E9m\u002C\u0020ke\u0020kter\u00E9mu\u0020do\u0161lo"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Koho\u0020chcete\u0020oslovit\u003F"
+},
+"CANCEL_CONCERN": {
+    "message": "Zru\u0161it"
+},
+"SUBMIT_CONCERN": {
+    "message": "Odeslat"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Klikn\u011Bte\u002C\u0020pokud\u0020chcete\u0020nahl\u00E1sit\u0020probl\u00E9m"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Pomoc\u00ED\u0020toho\u0020m\u016F\u017Eete\u0020sd\u00EDlet\u0020sv\u016Fj\u0020probl\u00E9m\u0020s\u0020u\u010Ditelem\u0020ve\u0020\u0161kole.\u0020S\u0020\u010D\u00EDmkoli\u002C\u0020co\u0020sd\u00EDl\u00EDte\u002C\u0020bude\u0020zach\u00E1zeno\u0020v\u0020nejp\u0159\u00EDsn\u011Bj\u0161\u00ED\u0020d\u016Fv\u011Brnosti."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "N\u00ED\u017Ee\u0020zadejte\u0020podrobnosti\u0020o\u0020sv\u00E9m\u0020probl\u00E9mu\u0020spolu\u0020s\u0020relevantn\u00EDmi\u0020informacemi.\u0020Pot\u00E9\u0020vyberte\u0020zam\u011Bstnance\u002C\u0020se\u0020kter\u00FDm\u0020bude\u0020v\u00E1\u0161\u0020probl\u00E9m\u0020sd\u00EDlen."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "P\u0159i\u0020zpracov\u00E1n\u00ED\u0020va\u0161\u00ED\u0020\u017E\u00E1dosti\u0020se\u0020bohu\u017Eel\u0020stala\u0020chyba.\u0020Omlouv\u00E1me\u0020se\u0020za\u0020nep\u0159\u00EDjemnosti.\u0020Zkuste\u0020to\u0020pros\u00EDm\u0020znovu\u0020pozd\u011Bji."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Dostali\u0020jsme\u0020va\u0161i\u0020\u017E\u00E1dost.\u0020Brzy\u0020v\u00E1s\u0020budeme\u0020kontaktovat."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Do\u0161lo\u0020k\u0020technick\u00E9\u0020chyb\u011B.\u0020Omlouv\u00E1me\u0020se\u0020za\u0020nep\u0159\u00EDjemnosti.\u0020Zkuste\u0020to\u0020pros\u00EDm\u0020znovu\u0020pozd\u011Bji."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "P\u0159ejd\u011Bte\u0020na\u0020konec\u0020z\u00E1sad\u0020a\u0020potvr\u010Fte\u002C\u0020\u017Ee\u0020jste\u0020si\u0020je\u0020p\u0159e\u010Detli"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Zadejte\u0020sv\u00E9\u0020jm\u00E9no\u0020a\u0020potvr\u010Fte\u002C\u0020\u017Ee\u0020jste\u0020si\u0020p\u0159e\u010Detli\u0020tyto\u0020z\u00E1sady\u0020a\u0020souhlas\u00EDte\u0020s\u0020nimi"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Potvrzuji\u002C\u0020\u017Ee\u0020jsem\u0020si\u0020p\u0159e\u010Detl\u0020a\u0020souhlas\u00EDm\u0020s\u0020t\u011Bmito\u0020z\u00E1sadami"
+},
+"PRINT_AUP": {
+    "message": "Tisk"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Z\u00E1sady PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "C\u00EDle"
+},
+"LESSON_OUTCOMES":{
+    "message": "V\u00FDsledek"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Zachy\u0165te\u0020plochu"
+}
+}

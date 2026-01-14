@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Godkjente nettsteder"},"CHAT":{"message":"Snakk"},"SEND":{"message":"Send"},"OPTIONS":{"message":"Alternativer"},"HELP_REQUEST":{"message":"Hjelpanmodning"},"ROOM_MODE":{"message":"Rommodus"},"SAVE":{"message":"Lagre"},"LOCKED":{"message":"L\u00e5st"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Administrasjonsalternativene er beskyttet"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Bruk navn og Oppkoblingsserver"},"GATEWAY_ADDRESS":{"message":"Portadresse"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Vennligst oppgi portaladressen"},"GATEWAY_PORT":{"message":"Gateway port"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Vennligst oppgi portnummeret for portalen"},"TCP_LISTENING_PORT":{"message":"TCP-lytteport"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Skriv inn lytteportnummeret"},"ROOM_NAME":{"message":"Romnavn"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Denne eleven befinner seg alltid i f\u00f8lgende rom"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Denne eleven forflytter seg mellom klasser og kan v\u00e6re i et av f\u00f8lgende rom"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Denne eleven forflytter seg mellom klasser, og rommet vil angis manuelt"},"CLIENT_NAME":{"message":"Klientnavn"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Vennligst oppgi et navn som identifiserer denne klienten"},"MAC_ADDRESS":{"message":"Macadresse"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Vennligst oppgi en MACadresse som identifiserer denne klienten"},"KEYBOARD_LAYOUT":{"message":"Tastaturprofil"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Vennligst Velg Tastaturoppsett For Denne Klienten"},"PROTECT_THE_CONFIGURATION":{"message":"Beskytt konfigurasjonen"},"EXPORT_AS_FILE":{"message":"Eksporter som fil"},"POLICY_EXPORT_OPTIONS":{"message":"Alternativer for praksiseksport"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Tillat meta-URL-distribusjon"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Angi URL for metadistribusjonsside"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Aktiver klientnavnendring"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Aktiver Mac-adresseendrin"},"GENERATE_FILE":{"message":"Generer fil"},"DOWNLOAD":{"message":"Last ned"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Vennligst tast inn din Portn\u00f8kkel"},"Q_AND_A_MODE":{"message":"Sp\u00f8rsm\u00e5l og svarmodus"},"ANSWER":{"message":"Svar"},"STUDENT_REGISTER":{"message":"Studentregister"},"CLASS_DETAILS":{"message":"Klassedetaljer"},"TEACHER_NAME":{"message":"L\u00e6rers navn"},"LESSON_NAME":{"message":"Navn p\u00e5 undervisningstime"},"FIRST_NAME":{"message":"Fornavn"},"LAST_NAME":{"message":"Siste navn"},"CLASS_NAME":{"message":"Navn p\u00e5 time"},"STUDENT_ID_NO":{"message":"Student IDNo"},"USERNAME":{"message":"Brukernavn"},"REGISTER":{"message":"Register"},"SURVEY_RESULTS":{"message":"Rundsp\u00f8rringsresultater"},"STUDENT_SURVEY":{"message":"Studentrundsp\u00f8rring"},"QUESTION":{"message":"Sp\u00f8rsm\u00e5l"},"ANSWERS":{"message":"Svar"},"CLIENT_IS_REQUESTING_HELP":{"message":"Klienten ber om hjelp"},"SHOW":{"message":"Vis"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNETTILGANG BLOKKERT"},"SAYS":{"message":"sier"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER har sluttet seg til samtalen"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER har forlatt samtalen"},"TOPIC":{"message":"Emne"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Beskjed fra PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"L\u00e6reren har forlatt samtalen."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Vennligst oppgi personlige data til undervisningstimeregisteret"},
+"RANDOM_SELECT_MSG": {
+    "message": "Du har blitt tilfeldig utvalgt"
+},
+"Q_AND_A_MSG": {
+    "message": "Melding\u0020fra\u0020Sp\u00F8rsm\u00E5l/Svar"
+},
+"MSG_FROM": {
+    "message": "Melding fra"
+},
+"ENROLL_DEVICE": {
+    "message": "Registrer enhet"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Angi\u0020omr\u00E5de-ID"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Angi konto-ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Angi region"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Aktiver\u0020St\u00F8tteverkt\u00F8y"
+},
+"ENROLL": {
+    "message": "Registrer deg"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Brukerbekreftelse"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER \u00F8nsker\u0020\u00E5\u0020koble\u0020til"
+},
+"ACCEPT": {
+    "message": "Godta"
+},
+"REJECT": {
+    "message": "Avvis"
+},
+"IN_CLASS": {
+    "message": "I timen"
+},
+"AVAILABLE": {
+    "message": "Tilgjengelig"
+},
+"LICENSED": {
+    "message": "Lisensiert"
+},
+"NOT_CONNECTED": {
+    "message": "Ikke tilkoblet"
+},
+"UNLICENSED": {
+    "message": "Ikke lisensiert"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Ikke godkjent nettverk"
+},
+"OUT_OF_HOURS": {
+    "message": "Utenfor skoletid"
+},
+"MESSAGE": {
+    "message": "Beskjed"
+},
+"NONE": {
+    "message": "(ingen)"
+},
+"WORKCOMPLETE": {
+    "message": "Arbeid\u0020fullf\u00F8rt"
+},
+"NEEDHELP": {
+    "message": "Beh\u00F8ver\u0020hjelp"
+},
+"URGENTHELP": {
+    "message": "\u00D8yeblikkelig\u0020hjelp"
+},
+"ALERTTEACHER": {
+    "message": "Varsle\u0020l\u00E6rer\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Avbryt\u0020forrige\u0020foresp\u00F8rsel"
+},
+"JOIN": {
+    "message": "Legg til"
+},
+"CANCEL": {
+    "message": "Avbryt"
+},
+"CLASSCODE": {
+    "message": "Klassekode"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Venter\u0020p\u00E5\u0020at\u0020l\u00E6reren\u0020skal\u0020v\u00E6re\u0020med..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Ugyldig kode"
+},
+"CHATTOOLTIP": {
+    "message": "Snakke"
+},
+"HELPTOOLTIP": {
+    "message": "Hjelp"
+},
+"INTERNETOOLTIP": {
+    "message": "Internett"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "M\u00E5lsettinger"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "\u00D8nsker\u0020en\u0020samtale"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Be\u0020l\u00E6reren\u0020om\u0020hjelp"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internettstatus"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Vis\u0020dine\u0020m\u00E5lsettinger"
+},
+"NORESTRICTIONS": {
+    "message": "Internettilgang er ubegrenset"
+},
+"APPROVEONLY": {
+    "message": "Begrenset\u0020adgang\u0020til\u0020internett\u0020er\u0020aktivert\u000AKlikk\u0020p\u00E5\u0020internetttasten\u0020for\u0020\u00E5\u0020f\u00E5\u0020liste\u0020over\u0020godkjente\u0020nettsteder"
+},
+"BLOCKRESTRICTED": {
+    "message": "Begrenset tilgang internett gjelder"
+},
+"BLOCKALL": {
+    "message": "Internettilgang er blokkert"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Vennligst tast inn ditt navn"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Selvhjelpressurser"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Online\u0020kundest\u00F8tte"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Navn"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Beskrivelse"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "S\u00F8k..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Rapporter en bekymring"
+},
+"YOUR_NAME": {
+    "message": "Ditt navn"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "(slik at vi kan kontakte deg)"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Fortell oss hva du trenger hjelp med"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Hvem\u0020vil\u0020du\u0020ha\u0020hjelp\u0020av\u003F"
+},
+"CANCEL_CONCERN": {
+    "message": "Avbryt"
+},
+"SUBMIT_CONCERN": {
+    "message": "Send inn"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Klikk hvis du har en bekymring"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Du\u0020kan\u0020bruke\u0020dette\u0020til\u0020\u00E5\u0020rapportere\u0020eller\u0020dele\u0020en\u0020bekymring\u0020med\u0020en\u0020ansatt\u0020ved\u0020skolen.\u0020Alt\u0020du\u0020deler\u0020her\u0020vil\u0020bli\u0020behandlet\u0020strengt\u0020konfidensielt."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Skriv inn detaljene om bekymringen din nedenfor med relevant informasjon, og velg deretter den ansatte fra boksen nederst som bekymringen din vil bli delt med."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Meldingen\u0020kan\u0020ikke\u0020sendes.\u0020Vi\u0020beklager\u0020det\u0020inntrufne.\u0020Pr\u00F8v\u0020p\u00E5\u0020nytt\u0020senere."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Melding\u0020mottatt...Vi\u0020kommer\u0020tilbake\u0020til\u0020deg\u0020s\u00E5\u0020snart\u0020som\u0020mulig."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Beklager\u002C\u0020tjenesten\u0020er\u0020ikke\u0020tilgjengelig.\u0020Pr\u00F8v\u0020p\u00E5\u0020nytt\u0020senere."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Rull\u0020til\u0020bunnen\u0020av\u0020policyen\u0020for\u0020\u00E5\u0020bekrefte\u0020at\u0020du\u0020har\u0020lest\u0020den"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Skriv\u0020inn\u0020navnet\u0020ditt\u0020for\u0020\u00E5\u0020bekrefte\u0020at\u0020du\u0020har\u0020lest\u0020og\u0020godtar\u0020denne\u0020policyen"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Jeg erkjenner at jeg har lest og godtar denne policyen"
+},
+"PRINT_AUP": {
+    "message": "Skriv ut"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Policy PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "M\u00E5lsettinger"
+},
+"LESSON_OUTCOMES":{
+    "message": "Resultat"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Fang skrivebordet"
+}
+}

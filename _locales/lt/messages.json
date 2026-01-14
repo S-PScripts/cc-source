@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Patvirtintos \u017diniatinklio svetain\u0117s"},"CHAT":{"message":"Pokalbis"},"SEND":{"message":"Si\u0173sti"},"OPTIONS":{"message":"Parinktys"},"HELP_REQUEST":{"message":"\u017dinyno U\u017eklausa"},"ROOM_MODE":{"message":"Klas\u0117s Re\u017eimas"},"SAVE":{"message":"I\u0161saugoti"},"LOCKED":{"message":"U\u017erakinta"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Administravimo parinktys yra apsaugotos"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Naudoti Vard\u0105 ir Jungiamumo Server\u012f"},"GATEWAY_ADDRESS":{"message":"\u0160liuzo Adresas"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"\u012eveskite \u0160liuzo adres\u0105"},"GATEWAY_PORT":{"message":"\u0160liuzo prievadas"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"\u012eveskite \u0160liuzo prievado numer\u012f"},"TCP_LISTENING_PORT":{"message":"Stebimas TCP prievadas"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Pra\u00f0ome \u00e1vesti stebimo prievado numer\u00e1"},"ROOM_NAME":{"message":"Klas\u0117s pavadinimas"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"\u0160is mokinys visada b\u016bna \u0161ioje klas\u0117je"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"\u0160is mokinys kei\u010dia klases ir gali b\u016bti vienoje i\u0161 \u0161i\u0173 klasi\u0173"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"\u0160is mokinys kei\u010dia klases, tod\u0117l klas\u0117s pavadinimas bus \u012fvestas rankiniu b\u016bdu"},"CLIENT_NAME":{"message":"Kliento Vardas"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"\u012eveskite vard\u0105 identifikuojant\u012f \u0161\u012f Klient\u0105"},"MAC_ADDRESS":{"message":"Mac adresas"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"\u012eveskite MAC adres\u0105 identifikuojant\u012f \u0161\u012f Klient\u0105"},"KEYBOARD_LAYOUT":{"message":"Klaviat\u016bros I\u0161d\u0117stymas"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Pasirinkite Kliento klaviat\u016bros i\u0161d\u0117stym\u0105"},"PROTECT_THE_CONFIGURATION":{"message":"Apsaugoti Konfig\u016bracij\u0105"},"EXPORT_AS_FILE":{"message":"Eksportuoti kaip byl\u00e0"},"POLICY_EXPORT_OPTIONS":{"message":"Politikos eksportavimo parinktys"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Leisti diegim\u00e0 su Meta nuoroda"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"\u00c1veskite nuorod\u00e0 \u00e1 Meta diegimo puslap\u00e1"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Leisti keisti Kliento vard\u00e0"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Leisti keisti Mac adres\u00e0"},"GENERATE_FILE":{"message":"Sukurti byl\u00e0"},"DOWNLOAD":{"message":"Atsisi\u0173sti"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Pra\u0161ome \u012fvesti savo slapta\u017eod\u012f"},"Q_AND_A_MODE":{"message":"Kl ir Ats re\u017eimas"},"ANSWER":{"message":"Atsakymas"},"STUDENT_REGISTER":{"message":"Mokini\u0173 reigstras"},"CLASS_DETAILS":{"message":"I\u0161sami Klas\u0117s informacija"},"TEACHER_NAME":{"message":"Mokytojo Vardas"},"LESSON_NAME":{"message":"Pamokos pavadinimas"},"FIRST_NAME":{"message":"Vardas"},"LAST_NAME":{"message":"Pavard\u0117"},"CLASS_NAME":{"message":"Klas\u0117s Pavadinimas"},"STUDENT_ID_NO":{"message":"Mokinio IDNr"},"USERNAME":{"message":"Vartotojo vardas"},"REGISTER":{"message":"Registruoti"},"SURVEY_RESULTS":{"message":"Apklausos rezultatai"},"STUDENT_SURVEY":{"message":"Mokini\u0173 apklausa"},"QUESTION":{"message":"Klausimas"},"ANSWERS":{"message":"Atsakymai"},"CLIENT_IS_REQUESTING_HELP":{"message":"Kliento pagalbos pra\u0161ymas"},"SHOW":{"message":"Rodyti"},"INTERNET_ACCESS_BLOCKED":{"message":"PRIEIGA PRIE INTERNETO U\u017dBLOKUOTA"},"SAYS":{"message":"sako"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER prisijung\u0117"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER i\u0161\u0117jo"},"TOPIC":{"message":"Tema"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Prane\u0161imas i\u0161 PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Mokytojas i\u0161\u0117jo i\u0161 pokalbio."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Pra\u0161ome pateikti savo asmeninius duomenis kad u\u017esiregistruotum\u0117te \u012f pamok\u0105"},
+"RANDOM_SELECT_MSG": {
+    "message": "Buvote atsitiktinai parinktas"
+},
+"Q_AND_A_MSG": {
+    "message": "Prane\u0161imas\u0020nuo\u0020Klausim\u0173\u0020ir\u0020Atsakym\u0173"
+},
+"MSG_FROM": {
+    "message": "Prane\u0161imas\u0020nuo"
+},
+"ENROLL_DEVICE": {
+    "message": "U\u017Eregistruoti\u0020\u012Frengin\u012F"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "\u012Eveskite\u0020svetain\u0117s\u0020ID"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "\u012Eveskite\u0020paskyros\u0020ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "\u012Eveskite\u0020region\u0105"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "\u012Egalinti\u0020Palaikymo\u0020\u012Frankis"
+},
+"ENROLL": {
+    "message": "Registruoti"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Vartotojo patvirtinimas"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER nori prisijungti"
+},
+"ACCEPT": {
+    "message": "Sutikti"
+},
+"REJECT": {
+    "message": "Atmesti"
+},
+"IN_CLASS": {
+    "message": "Klas\u0117je"
+},
+"AVAILABLE": {
+    "message": "Pasiekiamas"
+},
+"LICENSED": {
+    "message": "Licencijuota"
+},
+"NOT_CONNECTED": {
+    "message": "Neprisijung\u0119s"
+},
+"UNLICENSED": {
+    "message": "Nelicencijuota"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Nepatvirtintas tinklas"
+},
+"OUT_OF_HOURS": {
+    "message": "Nepatvirtintomis valandomis"
+},
+"MESSAGE": {
+    "message": "Prane\u0161imas"
+},
+"NONE": {
+    "message": "(nieko)"
+},
+"WORKCOMPLETE": {
+    "message": "Darbas baigtas"
+},
+"NEEDHELP": {
+    "message": "Reikia pagalbos"
+},
+"URGENTHELP": {
+    "message": "Skubi pagalba"
+},
+"ALERTTEACHER": {
+    "message": "\u012Esp\u0117ti\u0020mokytoj\u0105\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "At\u0161aukti\u0020Ankstesn\u0119\u0020U\u017Eklaus\u0105"
+},
+"JOIN": {
+    "message": "Prijungti"
+},
+"CANCEL": {
+    "message": "At\u0161aukti"
+},
+"CLASSCODE": {
+    "message": "Klas\u0117s\u0020kodas"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Laukiama Mokytojas..."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Neleistinas\u0020Klas\u0117s\u0020kodas"
+},
+"CHATTOOLTIP": {
+    "message": "Pokalbis"
+},
+"HELPTOOLTIP": {
+    "message": "Pagalba"
+},
+"INTERNETOOLTIP": {
+    "message": "Internetas"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Tikslai"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Pokalbio\u0020u\u017Eklausa"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Prašyti pagalbos iš mokytojo"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Interneto\u0020b\u016Bsena"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Rodo\u0020j\u016Bs\u0173\u0020tikslus"
+},
+"NORESTRICTIONS": {
+    "message": "Interneto prieiga neribojama"
+},
+"APPROVEONLY": {
+    "message": "Taikomi\u0020Interneto\u0020apribojimai\u000ASpustel\u0117jus\u0020mygtuk\u0105\u0020Internetas\u002C\u0020jums\u0020bus\u0020pateiktas\u0020patvirtint\u0173\u0020svetain\u0173\u0020s\u0105ra\u0161as"
+},
+"BLOCKRESTRICTED": {
+    "message": "Taikomi Interneto apribojimai"
+},
+"BLOCKALL": {
+    "message": "Interneto prieiga blokuojama"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Pra\u0161ome\u0020\u012Fvesti\u0020savo\u0020vard\u0105"
+},
+"OK": {
+    "message": "Gerai"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Pagalbos\u0020savitarnos\u0020i\u0161tekli"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Palaikymas\u0020tinkle"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Vardas"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefonas"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Apra\u0161ymas"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Paie\u0161ka..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Prane\u0161kite\u0020savo\u0020r\u016Bpest\u012F"
+},
+"YOUR_NAME": {
+    "message": "J\u016Bs\u0173\u0020vardas"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028Kad\u0020gal\u0117tume\u0020su\u0020jumis\u0020susisiekti\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Pasakykite\u002C\u0020kas\u0020jus\u0020neramina"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Pasirinkite\u002C\u0020kam\u0020norite\u0020prane\u0161ti\u0020apie\u0020\u0161\u012F\u0020r\u016Bpest\u012F"
+},
+"CANCEL_CONCERN": {
+    "message": "At\u0161aukti"
+},
+"SUBMIT_CONCERN": {
+    "message": "Pateikti"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Paspauskite, jeigu jus neramina"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "J\u016Bs\u0020galite\u0020prane\u0161ti\u0020\u010Dia\u0020arba\u0020pasidalinti\u0020savo\u0020r\u016Bpes\u010Diu\u0020su\u0020mokyklos\u0020atstovu.\u0020\u012E\u0020visk\u0105\u002C\u0020k\u0105\u0020\u010Dia\u0020para\u0161ysite\u002C\u0020bus\u0020rimtai\u0020atsi\u017Evelgta."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "\u017Demiau\u0020\u012Fveskite\u0020savo\u0020r\u016Bpes\u010Dio\u0020detales\u0020ir\u0020kit\u0105\u0020susijusi\u0105\u0020informacij\u0105\u002C\u0020tada\u0020i\u0161\u0020s\u0105ra\u0161o\u0020apa\u010Dioje\u0020pasirinkite\u0020mokyklos\u0020atstov\u0105\u002C\u0020kuriam\u0020norite\u0020patik\u0117ti\u0020savo\u0020r\u016Bpest\u012F."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Apgailestaujame\u002C\u0020j\u016Bs\u0173\u0020\u017Einut\u0117\u0020nenukeliavo\u0020\u0161iuo\u0020metu.\u0020Pra\u0161ome\u0020pabandyti\u0020v\u0117liau.\u0022"
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Mes\u0020j\u0105\u0020gavome\u0021\u0020J\u016Bs\u0173\u0020r\u016Bpestis\u0020mus\u0020pasiek\u0117\u0020ir\u0020mes\u0020su\u0020jumis\u0020susisieksime\u0020kuo\u0020grei\u010Diau."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Atsipra\u0161ome\u002C\u0020\u012Fvyko\u0020techninis\u0020sutrikimas\u002C\u0020mes\u0020bandome\u0020j\u012F\u0020sutvarkyti.\u0020Pra\u0161ome\u0020pabandyti\u0020v\u0117liau."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Slinkite\u0020\u012F\u0020politikos\u0020apa\u010Di\u0105\u002C\u0020kad\u0020patvirtintum\u0117te\u002C\u0020kad\u0020j\u0105\u0020perskait\u0117te"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "\u012Eveskite\u0020savo\u0020vard\u0105\u002C\u0020kad\u0020patvirtintum\u0117te\u002C\u0020kad\u0020perskait\u0117te\u0020ir\u0020sutinkate\u0020su\u0020\u0161ia\u0020politika"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Patvirtinu\u002C\u0020kad\u0020perskai\u010Diau\u0020ir\u0020sutinku\u0020su\u0020\u0161ia\u0020politika"
+},
+"PRINT_AUP": {
+    "message": "Spausdinti"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Politika PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Tikslai"
+},
+"LESSON_OUTCOMES":{
+    "message": "Rezultatas"
+},
+"CAPTURE_DESKTOP":{
+    "message": "U\u017Efiksuoti\u0020darbalauk\u012F"
+}
+}

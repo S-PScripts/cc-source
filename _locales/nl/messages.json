@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Goedgekeurde websites"},"CHAT":{"message":"Chat"},"SEND":{"message":"Verzenden"},"OPTIONS":{"message":"Opties"},"HELP_REQUEST":{"message":"Hulpaanvraag"},"ROOM_MODE":{"message":"Ruimte modus"},"SAVE":{"message":"Opslaan"},"LOCKED":{"message":"Geblokkeerd"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Administratie opties zijn beveiligd"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"Naam- en verbindingsserver gebruiken"},"GATEWAY_ADDRESS":{"message":"Gateway adres"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Vul het gateway adres in"},"GATEWAY_PORT":{"message":"Gateway poort"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Voer het poortnummer van de gateway in"},"TCP_LISTENING_PORT":{"message":"Tcp luister poort"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Voer het poortnummer in van de poort die luistert"},"ROOM_NAME":{"message":"Ruimte naam"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"Deze student bevindt zich altijd in het volgende les lokaal"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"Deze student verplaatst zich tussen klaslokalen en bevindt zich mogelijk in de volgende les lokalen"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"Deze student verplaatst zich tussen klaslokalen en het klaslokaal wordt handmatig ingevoerd"},"CLIENT_NAME":{"message":"Clientnaam"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Vul een naam in ter indentificatie van deze client"},"MAC_ADDRESS":{"message":"MAC adres"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Vul een MAC adres ter indentificatie van deze client"},"KEYBOARD_LAYOUT":{"message":"Toetsenbordindeling"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Selecteer aub De toetsenbordindeling van deze client"},"PROTECT_THE_CONFIGURATION":{"message":"Configuratie beveiligen"},"EXPORT_AS_FILE":{"message":"Exporteer als bestand"},"POLICY_EXPORT_OPTIONS":{"message":"Beleid export opties"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Sta meta url uitrol toe"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Voer url in voor meta uitrolpagina"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Sta wijzigen clientnaam toe"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Sta wijzigen mac-adres toe"},"GENERATE_FILE":{"message":"Genereer bestand"},"DOWNLOAD":{"message":"Download"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Geef uw wachtwoord op"},"Q_AND_A_MODE":{"message":"Q en A Modus"},"ANSWER":{"message":"Antwoord"},"STUDENT_REGISTER":{"message":"Studentenregsitratie"},"CLASS_DETAILS":{"message":"Klasdetails"},"TEACHER_NAME":{"message":"Docentnaam"},"LESSON_NAME":{"message":"Lesnaam"},"FIRST_NAME":{"message":"Voornaam"},"LAST_NAME":{"message":"Laatste naam"},"CLASS_NAME":{"message":"Klasnaam"},"STUDENT_ID_NO":{"message":"Student IDNr"},"USERNAME":{"message":"Gebruikersnaam"},"REGISTER":{"message":"Registreren"},"SURVEY_RESULTS":{"message":"Enqu\u00eate resultaten"},"STUDENT_SURVEY":{"message":"Studenten enqu\u00eate"},"QUESTION":{"message":"Vraag"},"ANSWERS":{"message":"Antwoorden"},"CLIENT_IS_REQUESTING_HELP":{"message":"Client vraagt hulp"},"SHOW":{"message":"Voorstelling"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNET TOEGANG GEBLOKKEERD"},"SAYS":{"message":"zegt"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER is toegetreden"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER heeft verlaten"},"TOPIC":{"message":"Topic"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Bericht van PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Docent heeft de chat verlaten."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Geef uw persoonlijke gegevens voor de presentielijst"},
+"RANDOM_SELECT_MSG": {
+    "message": "U bent willekeurig geselecteerd"
+},
+"Q_AND_A_MSG": {
+    "message": "Bericht van Q & A"
+},
+"MSG_FROM": {
+    "message": "Bericht van"
+},
+"ENROLL_DEVICE": {
+    "message": "Apparaat inschrijven"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Voer Site ID in"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Voer Account ID in"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Voer Regio in"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Support Tool inschakelen"
+},
+"ENROLL": {
+    "message": "Inschrijven"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "Gebruikersbevestiging"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER wil verbinding maken"
+},
+"ACCEPT": {
+    "message": "Accepteren"
+},
+"REJECT": {
+    "message": "Afwijzen"
+},
+"IN_CLASS": {
+    "message": "In klas"
+},
+"AVAILABLE": {
+    "message": "Beschikbaar"
+},
+"LICENSED": {
+    "message": "Met licentie"
+},
+"NOT_CONNECTED": {
+    "message": "Niet verbonden"
+},
+"UNLICENSED": {
+    "message": "Zonder licentie"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Niet goedgekeurd netwerk"
+},
+"OUT_OF_HOURS": {
+    "message": "Buiten de uren"
+},
+"MESSAGE": {
+    "message": "Bericht"
+},
+"NONE": {
+    "message": "(geen)"
+},
+"WORKCOMPLETE": {
+    "message": "Werk compleet"
+},
+"NEEDHELP": {
+    "message": "Hulp nodig"
+},
+"URGENTHELP": {
+    "message": "Direct hulp nodig"
+},
+"ALERTTEACHER": {
+    "message": "Waarschuw docent:"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Vorige aanvraag annuleren"
+},
+"JOIN": {
+    "message": "Toetreden"
+},
+"CANCEL": {
+    "message": "Annuleren"
+},
+"CLASSCODE": {
+    "message": "Klas code"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Wachten tot de leraar toetreedt"
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Ongeldige klas code"
+},
+"CHATTOOLTIP": {
+    "message": "Chat"
+},
+"HELPTOOLTIP": {
+    "message": "Help"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Leerdoelen"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Een chat aanvragen"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "De docent om hulp vragen"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internetstatus"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Toon uw leerdoelen"
+},
+"NORESTRICTIONS": {
+    "message": "Internettoegang is onbeperkt"
+},
+"APPROVEONLY": {
+    "message": "Internetbeperkingen toegepast\u000AKlik op internet knop voor een lijst van toegestane websites"
+},
+"BLOCKRESTRICTED": {
+    "message": "Internetbeperkingen toegepast"
+},
+"BLOCKALL": {
+    "message": "Internettoegang is geblokkeerd"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Voer uw naam in"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Veiligheid Bronnen"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Support Links"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Naam"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telefoon"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Omschrijving"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Zoeken..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Een probleem melden"
+},
+"YOUR_NAME": {
+    "message": "Uw naam"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "(Zodat we u kunnen volgen)"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Vertel ons wat je dwars zit."
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Selecteer aan wie u dit probleem wilt melden"
+},
+"CANCEL_CONCERN": {
+    "message": "Cancel"
+},
+"SUBMIT_CONCERN": {
+    "message": "Indienen"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Klik als u een probleem heeft"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "U kunt dit gebruiken om een probleem te melden of te delen met een lid van het personeel van de school. Alles wat u hier deelt, zal strikt vertrouwelijk worden behandeld."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Vul hieronder de details van uw probleem in met alle relevante informatie en selecteer vervolgens in het vak onderaan het personeelslid met wie uw probleem zal worden gedeeld."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Het spijt ons... uw bericht kan op dit moment niet verzonden worden. Probeert u het later nog eens."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "We\u0020hebben\u0020het\u0021\u0020Uw\u0020vraag\u0020staat\u0020in\u0020onze\u0020inbox\u0020en\u0020nemen\u0020zo\u0020spoedig\u0020mogelijk\u0020contact\u0020met\u0020u\u0020op."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Het spijt ons... er is iets technisch fout gegaan en we proberen het te herstellen. Probeer het later nog eens."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Scroll naar de onderkant van het beleid om te bevestigen dat u het hebt gelezen"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Voer uw naam in om te bevestigen dat u dit beleid hebt gelezen en ermee akkoord gaat"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Ik erken dat ik dit beleid heb gelezen en ermee akkoord ga"
+},
+"PRINT_AUP": {
+    "message": "Print"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Beleid PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Doelstellingen"
+},
+"LESSON_OUTCOMES":{
+    "message": "Resultaat"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Vastleggen bureaublad"
+}
+}

@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"\u4fe1\u4efb\u7684\u7db2\u7ad9"},"CHAT":{"message":"\u901a\u8a71"},"SEND":{"message":"\u50b3\u9001"},"OPTIONS":{"message":"\u9078\u9805"},"HELP_REQUEST":{"message":"\u8981\u6c42\u5167\u5bb9"},"ROOM_MODE":{"message":"\u6559\u5ba4\u6a21\u5f0f"},"SAVE":{"message":"\u5132\u5b58"},"LOCKED":{"message":"\u5df2\u9396\u5b9a"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"\u7ba1\u7406\u9078\u9805\u5df2\u8a2d\u70ba\u4fdd\u8b77"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"\u4f7f\u7528\u540d\u7a31\u8207\u9023\u63a5\u4f3a\u670d\u5668"},"GATEWAY_ADDRESS":{"message":"\u9598\u9053\u5730\u5740"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"\u8acb\u8f38\u5165\u9598\u9053\u5730\u5740"},"GATEWAY_PORT":{"message":"\u9598\u9053\u57e0"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"\u8acb\u8f38\u5165\u9598\u9053\u7684\u57e0\u865f"},"TCP_LISTENING_PORT":{"message":"TCP\u76e3\u807d\u57e0"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"\u8acb\u8f38\u5165\u76e3\u807d\u57e0\u865f"},"ROOM_NAME":{"message":"\u623f\u9593\u540d"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"\u8a72\u5b78\u751f\u7e3d\u662f\u4f4d\u65bc\u4ee5\u4e0b\u6559\u5ba4"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"\u8a72\u5b78\u751f\u5728\u4e0d\u540c\u8ab2\u5802\u4e4b\u9593\u8d70\u52d5\uff0c\u53ef\u80fd\u4f4d\u65bc\u4ee5\u4e0b\u6559\u5ba4\u4e4b\u4e00"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"\u8a72\u5b78\u751f\u5728\u4e0d\u540c\u8ab2\u5802\u4e4b\u9593\u8d70\u52d5\uff0c\u5176\u6559\u5ba4\u4fe1\u606f\u5c07\u4ee5\u624b\u52d5\u8f38\u5165"},"CLIENT_NAME":{"message":"\u4f7f\u7528\u8005\u7aef\u540d\u7a31"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"\u8acb\u8f38\u5165\u4e00\u500b\u8b58\u5225\u8a72\u4f7f\u7528\u8005\u7aef\u7684\u540d\u7a31"},"MAC_ADDRESS":{"message":"MAC\u5730\u5740"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"\u8acb\u8f38\u5165\u4e00\u500b\u8b58\u5225\u8a72\u4f7f\u7528\u8005\u7aef\u7684MAC\u5730\u5740"},"KEYBOARD_LAYOUT":{"message":"\u9375\u76e4\u4f48\u5c40"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"\u8acb\u70ba\u9019\u500b\u5ba2\u6236\u9078\u64c7\u9375\u76e4\u914d\u7f6e"},"PROTECT_THE_CONFIGURATION":{"message":"\u4fdd\u8b77\u914d\u7f6e"},"EXPORT_AS_FILE":{"message":"\u532f\u51fa\u81f3\u6a94\u6848"},"POLICY_EXPORT_OPTIONS":{"message":"\u539f\u5247\u532f\u51fa\u9078\u9805"},"ALLOW_META_URL_DEPLOYMENT":{"message":"\u5141\u8a31Meta URL\u90e8\u7f72"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"\u70baMeta\u90e8\u7f72\u9801\u8f38\u5165URL"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"\u555f\u7528\u4f7f\u7528\u8005\u7aef\u540d\u7a31\u8b8a\u66f4"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"\u555f\u7528MAC\u4f4d\u5740\u8b8a\u66f4"},"GENERATE_FILE":{"message":"\u7522\u751f\u6a94\u6848"},"DOWNLOAD":{"message":"\u4e0b\u8f09"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"\u8acb\u8f38\u5165\u60a8\u7684\u5bc6\u78bc"},"Q_AND_A_MODE":{"message":"\u554f\u7b54\u6a21\u5f0f"},"ANSWER":{"message":"\u7b54\u6848"},"STUDENT_REGISTER":{"message":"\u5b78\u751f\u540d\u518a"},"CLASS_DETAILS":{"message":"\u73ed\u7d1a\u8a73\u7d30\u8cc7\u8a0a"},"TEACHER_NAME":{"message":"\u6559\u5e2b\u59d3\u540d"},"LESSON_NAME":{"message":"\u8ab2\u7a0b\u540d\u7a31"},"FIRST_NAME":{"message":"\u540d"},"LAST_NAME":{"message":"\u59d3"},"CLASS_NAME":{"message":"\u73ed\u7d1a\u540d\u7a31"},"STUDENT_ID_NO":{"message":"\u5b78\u865f"},"USERNAME":{"message":"\u4f7f\u7528\u8005\u540d\u7a31"},"REGISTER":{"message":"\u8a3b\u518a"},"SURVEY_RESULTS":{"message":"\u8abf\u67e5\u7d50\u679c"},"STUDENT_SURVEY":{"message":"\u5b78\u751f\u8abf\u67e5"},"QUESTION":{"message":"\u554f\u984c"},"ANSWERS":{"message":"\u7b54\u6848"},"CLIENT_IS_REQUESTING_HELP":{"message":"\u5ba2\u6236\u7aef\u8acb\u6c42\u5354\u52a9"},"SHOW":{"message":"\u5c55\u793a"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNET\u8a2a\u554f\u88ab\u963b\u6b62"},"SAYS":{"message":"\u8aaa"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER\u5df2\u52a0\u5165"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER\u5df2\u96e2\u958b"},"TOPIC":{"message":"\u4e3b\u984c"},"MESSAGE_FROM_PLACEHOLDER":{"message":"\u767c\u81eaPLACEHOLDER\u7684\u8a0a\u606f"},"TUTOR_HAS_LEFT_CHAT":{"message":"\u6559\u5e2b\u7aef\u5df2\u96e2\u958b\u901a\u8a71\u3002"},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"\u8acb\u63d0\u4f9b\u60a8\u7684\u8a73\u7d30\u500b\u4eba\u8cc7\u8a0a"},
+"RANDOM_SELECT_MSG": {
+    "message": "\u60A8\u88AB\u96A8\u6A5F\u9078\u4E2D"
+},
+"Q_AND_A_MSG": {
+    "message": "\u4F86\u81EA\u554F\u8207\u7B54\u7684\u6D88\u606F"
+},
+"MSG_FROM": {
+    "message": "\u6D88\u606F\u4F86\u81EA"
+},
+"ENROLL_DEVICE": {
+    "message": "\u767B\u8A18\u8A2D\u5099"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "\u8ACB\u8F38\u5165\u5834\u6240ID"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "\u8ACB\u8F38\u5165\u5E33\u6236ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "\u8ACB\u8F38\u5165\u5340\u57DF"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "\u555F\u52D5\u652F\u63F4\u5DE5\u5177"
+},
+"ENROLL": {
+    "message": "\u767B\u8A18"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "\u4F7F\u7528\u8005\u78BA\u8A8D"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER \u5E0C\u671B\u9023\u63A5"
+},
+"ACCEPT": {
+    "message": "\u63A5\u53D7"
+},
+"REJECT": {
+    "message": "\u62D2\u7D55"
+},
+"IN_CLASS": {
+    "message": "\u4E0A\u8AB2\u4E2D"
+},
+"AVAILABLE": {
+    "message": "\u53EF\u7528"
+},
+"LICENSED": {
+    "message": "\u5DF2\u6388\u6B0A"
+},
+"NOT_CONNECTED": {
+    "message": "\u672A\u9023\u63A5"
+},
+"UNLICENSED": {
+    "message": "\u672A\u6388\u6B0A"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "\u672A\u6279\u51C6\u7684\u7DB2\u8DEF"
+},
+"OUT_OF_HOURS": {
+    "message": "\u4E0B\u8AB2\u4E2D"
+},
+"MESSAGE": {
+    "message": "\u8A0A\u606F"
+},
+"NONE": {
+    "message": "\u0028\u7121\u0029"
+},
+"WORKCOMPLETE": {
+    "message": "\u4F5C\u696D\u5B8C\u6210"
+},
+"NEEDHELP": {
+    "message": "\u9700\u8981\u8AAA\u660E"
+},
+"URGENTHELP": {
+    "message": "\u6025\u9700\u8AAA\u660E\u662F"
+},
+"ALERTTEACHER": {
+    "message": "\u8B66\u793A\u6559\u5E2B\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "\u53D6\u6D88\u5148\u524D\u7684\u8981\u6C42"
+},
+"JOIN": {
+    "message": "\u52A0\u5165"
+},
+"CANCEL": {
+    "message": "\u53D6\u6D88"
+},
+"CLASSCODE": {
+    "message": "\u8AB2\u5802\u4EE3\u78BC"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "\u7B49\u5F85\u6559\u5E2B\u52A0\u5165"
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "\u7121\u6548\u7684\u8AB2\u5802\u4EE3\u78BC"
+},
+"CHATTOOLTIP": {
+    "message": "\u901A\u8A71"
+},
+"HELPTOOLTIP": {
+    "message": "\u8AAA\u660E"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "\u76EE\u6A19"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "\u8981\u6C42\u901A\u8A71"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "\u8981\u6C42\u6559\u5E2B\u7AEF\u8AAA\u660E"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internet\u72C0\u614B"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "\u986F\u793A\u60A8\u7684\u76EE\u6A19"
+},
+"NORESTRICTIONS": {
+    "message": "\u672A\u9650\u5236Internet\u5B58\u53D6"
+},
+"APPROVEONLY": {
+    "message": "\u5957\u7528Internet\u9650\u5236\u000A\u9EDE\u0027Internet\u0027\u6AA2\u8996\u4FE1\u4EFB\u7DB2\u7AD9\u6E05\u55AE"
+},
+"BLOCKRESTRICTED": {
+    "message": "\u61C9\u7528Internet\u9650\u5236"
+},
+"BLOCKALL": {
+    "message": "Internet\u5B58\u53D6\u88AB\u963B\u9694"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "\u8ACB\u8F38\u5165\u60A8\u7684\u59D3\u540D"
+},
+"OK": {
+    "message": "\u78BA\u5B9A"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "\u5176\u4ED6\u8AAA\u660E\u8CC7\u6E90"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "\u652F\u63F4\u0020URL"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "\u540D\u7A31"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "\u96FB\u8A71"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "\u63CF\u8FF0"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "\u641C\u5C0B"
+},
+"REPORT_A_CONCERN": {
+    "message": "\u5831\u544A\u4E00\u500B\u554F\u984C"
+},
+"YOUR_NAME": {
+    "message": "\u60A8\u7684\u59D3\u540D"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028\u9019\u6A23\u6211\u5011\u4FBF\u80FD\u8DDF\u9032\u9019\u500B\u554F\u984C\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "\u544A\u8A34\u6211\u5011\u60A8\u9047\u5230\u4E86\u4EC0\u9EBC\u554F\u984C"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "\u8ACB\u9078\u64C7\u60A8\u5E0C\u671B\u5411\u8AB0\u5831\u544A\u9019\u500B\u554F\u984C"
+},
+"CANCEL_CONCERN": {
+    "message": "\u53D6\u6D88"
+},
+"SUBMIT_CONCERN": {
+    "message": "\u63D0\u4EA4"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "\u5982\u679C\u60A8\u6709\u554F\u984C\u8ACB\u6309"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "\u60A8\u53EF\u4EE5\u4F7F\u7528\u5B83\u4F86\u5411\u5B78\u6821\u4E2D\u7684\u4E00\u540D\u6559\u8077\u54E1\u5DE5\u5831\u544A\u6216\u5206\u4EAB\u9019\u500B\u554F\u984C\u3002\u60A8\u5728\u6B64\u5206\u4EAB\u7684\u4E00\u5207\u5167\u5BB9\u90FD\u5C07\u5F97\u5230\u6700\u56B4\u683C\u7684\u4FDD\u5BC6\u8655\u7406\u3002"
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "\u8ACB\u5728\u4E0B\u65B9\u8F38\u5165\u554F\u984C\u7684\u8A73\u7D30\u63CF\u8FF0\uFF0C\u7136\u5F8C\u5F9E\u5E95\u90E8\u7684\u9078\u6846\u4E2D\u9078\u64C7\u60A8\u5E0C\u671B\u5411\u54EA\u540D\u6559\u8077\u54E1\u5DE5\u5831\u544A\u9019\u500B\u554F\u984C\u3002"
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "\u5F88\u62B1\u6B49\u2026\u73FE\u5728\u7121\u6CD5\u767C\u9001\u60A8\u7684\u6D88\u606F\u3002\u8ACB\u7A0D\u5F8C\u518D\u8A66\u3002"
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "\u6211\u5011\u5DF2\u6536\u5230\u60A8\u7684\u6D88\u606F\uFF01\u60A8\u7684\u554F\u984C\u5DF2\u62B5\u9054\u6211\u5011\u7684\u6536\u4EF6\u7BB1\uFF0C\u6211\u5011\u5C07\u5118\u5FEB\u7B54\u8986\u60A8\u3002"
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "\u5F88\u62B1\u6B49\u2026\u767C\u751F\u4E86\u4E00\u4E9B\u6280\u8853\u554F\u984C\uFF0C\u6211\u5011\u6B63\u5728\u5617\u8A66\u4FEE\u5FA9\u9019\u500B\u554F\u984C\u3002\u8ACB\u7A0D\u5F8C\u91CD\u8A66\u3002"
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "\u6EFE\u52D5\u5230\u653F\u7B56\u5E95\u90E8\u4EE5\u78BA\u8A8D\u60A8\u5DF2\u95B1\u8B80\u5B83"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "\u8F38\u5165\u60A8\u7684\u59D3\u540D\u4EE5\u78BA\u8A8D\u60A8\u5DF2\u95B1\u8B80\u4E26\u540C\u610F\u672C\u653F\u7B56"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "\u6211\u78BA\u8A8D\u6211\u5DF2\u95B1\u8B80\u4E26\u540C\u610F\u6B64\u653F\u7B56"
+},
+"PRINT_AUP": {
+    "message": "\u5217\u5370"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "\u539F\u5247 PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "\u76EE\u6A19"
+},
+"LESSON_OUTCOMES":{
+    "message": "\u7D50\u679C"
+},
+"CAPTURE_DESKTOP":{
+    "message": "\u6355\u7372\u684C\u9762"
+}
+}

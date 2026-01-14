@@ -1,0 +1,221 @@
+{"APPROVED_WEBSITES":{"message":"Sallitut sivustot"},"CHAT":{"message":"Keskustelu"},"SEND":{"message":"L\u00e4het\u00e4"},"OPTIONS":{"message":"Asetukset"},"HELP_REQUEST":{"message":"Avunpyynt\u00f6"},"ROOM_MODE":{"message":"Huonetila"},"SAVE":{"message":"Tallenna"},"LOCKED":{"message":"Lukittu"},"ADMINISTRATION_OPTIONS_ARE_PROTECTED":{"message":"Hallinnan asetukset on suojattu"},"USE_NAME_AND_CONNECTIVITY_SERVER":{"message":"K\u00e4yt\u00e4 nimi- ja yhteyspalvelinta"},"GATEWAY_ADDRESS":{"message":"Yhdysk\u00e4yt\u00e4v\u00e4n osoite"},"PLEASE_ENTER_THE_GATEWAY_ADDRESS":{"message":"Anna yhdysk\u00e4yt\u00e4v\u00e4n osoite"},"GATEWAY_PORT":{"message":"Yhdysk\u00e4yt\u00e4v\u00e4n portti"},"PLEASE_ENTER_THE_PORT_NUMBER_OF_THE_GATEWAY":{"message":"Anna yhdysk\u00e4yt\u00e4v\u00e4n portin numero"},"TCP_LISTENING_PORT":{"message":"Tcp-portti"},"PLEASE_ENTER_THE_LISTENING_PORT_NUMBER":{"message":"Ole hyv\u00e4 ja anna portin numero"},"ROOM_NAME":{"message":"Huoneen nimi"},"THIS_STUDENT_IS_ALWAYS_LOCATED_IN_THE_FOLLOWING_ROOM":{"message":"T\u00e4m\u00e4 opiskelija on aina seuraavassa huoneessa"},"THIS_STUDENT_MOVES_CLASSES_AND_MAY_BE_IN_ONE_OF_THE_FOLLOWING_ROOMS":{"message":"T\u00e4m\u00e4 opiskelija siirtyy luokasta toiseen ja voi olla yhdess\u00e4 seuraavista huoneista"},"THIS_STUDENT_MOVES_CLASSES_AND_THE_ROOM_WILL_BE_ENTERED_MANUALLY":{"message":"T\u00e4m\u00e4 opiskelija siirtyy luokasta toiseen ja huoneeseen astutaan manuaalisesti"},"CLIENT_NAME":{"message":"Asiakaskoneen nimi"},"PLEASE_ENTER_A_NAME_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Anna nimi josta t\u00e4m\u00e4 asiakaskone tunnistetaan"},"MAC_ADDRESS":{"message":"Macosoite"},"PLEASE_ENTER_A_MAC_ADDRESS_WHICH_IDENTIFIES_THIS_CLIENT":{"message":"Anna MACosoite josta t\u00e4m\u00e4 asiakaskone tunnistetaan"},"KEYBOARD_LAYOUT":{"message":"N\u00e4pp\u00e4imist\u00f6asettelu"},"PLEASE_CHOOSE_THE_KEYBOARD_LAYOUT_OF_THE_CLIENT":{"message":"Valitse n\u00e4pp\u00e4imist\u00f6n  asettelu t\u00e4lle asiakkaalle"},"PROTECT_THE_CONFIGURATION":{"message":"Suojaa m\u00e4\u00e4ritykset"},"EXPORT_AS_FILE":{"message":"Exporttaa tiedosto"},"POLICY_EXPORT_OPTIONS":{"message":"M\u00e4\u00e4rit\u00e4 export-valinnat"},"ALLOW_META_URL_DEPLOYMENT":{"message":"Hyv\u00e4ksy Meta Urlin k\u00e4ytt\u00f6\u00f6notto"},"INPUT_URL_FOR_META_DEPLOYMENT_PAGE":{"message":"Sy\u00f6t\u00e4 Url Meta-k\u00e4ytt\u00f6\u00f6nottosivulle"},"ENABLE_CLIENT_NAME_CHANGE":{"message":"Salli asiakasnimen vaihto"},"ENABLE_MAC_ADDRESS_CHANGE":{"message":"Salli Mac-osoitteen vaihto"},"GENERATE_FILE":{"message":"Muodosta tiedosto"},"DOWNLOAD":{"message":"Lataa"},"PLEASE_ENTER_YOUR_PASSWORD":{"message":"Anna salasanasi"},"Q_AND_A_MODE":{"message":"Kysymys ja vastaustila"},"ANSWER":{"message":"Vastaus"},"STUDENT_REGISTER":{"message":"Opiskelijarekisteri"},"CLASS_DETAILS":{"message":"Luokan tiedot"},"TEACHER_NAME":{"message":"Opettajan nimi"},"LESSON_NAME":{"message":"Oppitunnin nimi"},"FIRST_NAME":{"message":"Etunimi"},"LAST_NAME":{"message":"Sukunimi"},"CLASS_NAME":{"message":"Luokan nimi"},"STUDENT_ID_NO":{"message":"Opiskelijatunnusnumero"},"USERNAME":{"message":"K\u00e4ytt\u00e4j\u00e4tunnus"},"REGISTER":{"message":"Rekister\u00f6i"},"SURVEY_RESULTS":{"message":"Kyselyn tulokset"},"STUDENT_SURVEY":{"message":"opiskelijoiden muistiinpanot"},"QUESTION":{"message":"Kysymys"},"ANSWERS":{"message":"Vastaukset"},"CLIENT_IS_REQUESTING_HELP":{"message":"Asiakas pyyt\u00e4\u00e4 apua"},"SHOW":{"message":"N\u00e4yt\u00e4"},"INTERNET_ACCESS_BLOCKED":{"message":"INTERNETYHTEYS ESTETTY"},"SAYS":{"message":"sanoo"},"PLACEHOLDER_HAS_JOINED":{"message":"PLACEHOLDER on liittynyt"},"PLACEHOLDER_HAS_LEFT":{"message":"PLACEHOLDER on poistunut"},"TOPIC":{"message":"Aihe"},"MESSAGE_FROM_PLACEHOLDER":{"message":"Viesti k\u00e4ytt\u00e4j\u00e4lt\u00e4 PLACEHOLDER"},"TUTOR_HAS_LEFT_CHAT":{"message":"Ohjaaja on poistunut keskustelusta."},"PLEASE_PROVIDE_YOUR_PERSONAL_DETAILS_FOR_THE_LESSON_REGISTER":{"message":"Anna henkil\u00f6tietosi oppitunnille rekister\u00f6itymist\u00e4 varten"},
+"RANDOM_SELECT_MSG": {
+    "message": "Sinut on valittu sattumanvaraisesti"
+},
+"Q_AND_A_MSG": {
+    "message": "Kysymykset ja vastaukset -viesti"
+},
+"MSG_FROM": {
+    "message": "Viesti\u0020l\u00E4hett\u00E4j\u00E4lt\u00E4"
+},
+"ENROLL_DEVICE": {
+    "message": "Rekister\u00F6i\u0020laite"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Lis\u00E4\u00E4\u0020toimipaikan\u0020tunnus"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Lis\u00E4\u00E4\u0020tilin\u0020tunnus"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Lis\u00E4\u00E4\u0020alue"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Ota\u0020k\u00E4ytt\u00F6\u00F6n\u0020tukity\u00F6kalu"
+},
+"ENROLL": {
+    "message": "Rekister\u00F6i"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "K\u00E4ytt\u00E4j\u00E4n\u0020hyv\u00E4ksynt\u00E4"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER haluaa\u0020yhdist\u00E4\u00E4"
+},
+"ACCEPT": {
+    "message": "Hyv\u00E4ksy"
+},
+"REJECT": {
+    "message": "Hylk\u00E4\u00E4"
+},
+"IN_CLASS": {
+    "message": "Oppitunnilla"
+},
+"AVAILABLE": {
+    "message": "K\u00E4ytett\u00E4viss\u00E4"
+},
+"LICENSED": {
+    "message": "K\u00E4ytt\u00F6oikeus"
+},
+"NOT_CONNECTED": {
+    "message": "Ei\u0020yhteytt\u00E4"
+},
+"UNLICENSED": {
+    "message": "Ei\u0020k\u00E4ytt\u00F6oikeutta"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Ei\u0020hyv\u00E4ksytty\u0020verkko"
+},
+"OUT_OF_HOURS": {
+    "message": "Ty\u00F6ajan\u0020ulkopuolella"
+},
+"MESSAGE": {
+    "message": "Viesti"
+},
+"NONE": {
+    "message": "\u0028ei\u0020mit\u00E4\u00E4n\u0029"
+},
+"WORKCOMPLETE": {
+    "message": "Ty\u00F6\u0020valmis"
+},
+"NEEDHELP": {
+    "message": "Avun tarve"
+},
+"URGENTHELP": {
+    "message": "Nopean avun tarve"
+},
+"ALERTTEACHER": {
+    "message": "H\u00E4lytys\u0020opettajalle\u003A"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Peruuta\u0020aiempi\u0020pyynt\u00F6"
+},
+"JOIN": {
+    "message": "Yhdist\u00E4"
+},
+"CANCEL": {
+    "message": "Peruuta"
+},
+"CLASSCODE": {
+    "message": "Luokkakoodi"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Odotetaan opettajan"
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Virheellinen koodi"
+},
+"CHATTOOLTIP": {
+    "message": "Verkkojuttelu"
+},
+"HELPTOOLTIP": {
+    "message": "Apua"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Tavoitteet"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Verkkojuttelupyynt\u00F6"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Pyyd\u00E4\u0020apua\u0020opettajalta"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internet-tila"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "N\u00E4yt\u00E4\u0020tavoitteesi"
+},
+"NORESTRICTIONS": {
+    "message": "Internet-k\u00E4ytt\u00F6\u00E4\u0020ei\u0020rajoiteta"
+},
+"APPROVEONLY": {
+    "message": "Voimassa\u0020on\u0020Internet-rajoituksia\u000ASaat\u0020luettelon\u0020hyv\u00E4ksytyist\u00E4\u0020sivustoista\u0020napsauttamalla\u0020Internet-painiketta"
+},
+"BLOCKRESTRICTED": {
+    "message": "Voimassa on Internet-rajoituksia"
+},
+"BLOCKALL": {
+    "message": "Internet-yhteys on estetty"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Sy\u00F6t\u00E4\u0020nimesi"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Itse\u0020haettavien\u0020ohjeiden\u0020resurssit"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Online-tuki"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Nimi"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Puhelin"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Kuvaus"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Hae..."
+},
+"REPORT_A_CONCERN": {
+    "message": "Ilmoita ongelmasta"
+},
+"YOUR_NAME": {
+    "message": "Oma nimesi"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "\u0028jotta\u0020voimme\u0020ottaa\u0020sinuun\u0020yhteytt\u00E4\u0029"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Kertoisitko\u0020meille\u0020lis\u00E4tietoja\u003F"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Keneen\u0020haluaisit\u0020ottaa\u0020yhteytt\u00E4\u003F"
+},
+"CANCEL_CONCERN": {
+    "message": "Peruuta"
+},
+"SUBMIT_CONCERN": {
+    "message": "L\u00E4het\u00E4"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Napsauta, jos sinulla on ongelma"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "Voit\u0020k\u00E4ytt\u00E4\u00E4\u0020t\u00E4t\u00E4\u0020ongelman\u0020ilmoittamiseen\u0020tai\u0020jakamiseen\u0020koulun\u0020henkil\u00F6kunnan\u0020j\u00E4senen\u0020kanssa.\u0020Kaikki\u0020mit\u00E4\u0020jaat\u0020t\u00E4\u00E4ll\u00E4\u002C\u0020k\u00E4sitell\u00E4\u00E4n\u0020tiukimman\u0020luottamuksellisesti."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Kirjoita\u0020ongelmasi\u0020tiedot\u0020alle\u0020kaikkiin\u0020asiaankuuluviin\u0020tietoihin\u0020ja\u0020valitse\u0020sitten\u0020alareunassa\u0020olevasta\u0020laatikosta\u0020ty\u00F6ntekij\u00E4\u002C\u0020jolle\u0020huolenaiheesi\u0020kerrotaan."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "Pahoittelumme...Tapahtui\u0020virhe.\u0020Yrit\u00E4\u0020my\u00F6hemmin\u0020uudelleen."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "Viestisi\u0020on\u0020vastaanotettu.\u0020Sinuun\u0020otetaan\u0020pian\u0020yhteytt\u00E4\u0020puhelinnumeroon."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "Valitettavasti\u0020tapahtui\u0020tuntematon\u0020virhe.\u0020Ongelmaa\u0020korjataan\u0020parhaillaan.\u0020Yrit\u00E4\u0020my\u00F6hemmin\u0020uudelleen."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Selaa\u0020k\u00E4yt\u00E4nn\u00F6n\u0020loppuun\u0020ja\u0020vahvista%2C\u0020ett\u00E4\u0020olet\u0020lukenut\u0020sen"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Anna\u0020nimesi\u0020vahvistuksesi\u0020siit\u00E4%2C\u0020ett\u00E4\u0020olet\u0020lukenut\u0020t\u00E4m\u00E4n\u0020k\u00E4yt\u00E4nn\u00F6n\u0020ja\u0020hyv\u00E4ksyt\u0020sen"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "Vahvistan%2C\u0020ett\u00E4\u0020olen\u0020lukenut\u0020t\u00E4m\u00E4n\u0020k\u00E4yt\u00E4nn\u00F6n\u0020ja\u0020hyv\u00E4ksyn\u0020sen"
+},
+"PRINT_AUP": {
+    "message": "Tulosta"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "K\u00E4yt\u00E4nt\u00F6 PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Tavoitteet"
+},
+"LESSON_OUTCOMES":{
+    "message": "Tulos"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Kaappaa\u0020ty\u00F6p\u00F6yt\u00E4"
+}
+}

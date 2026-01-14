@@ -1,0 +1,230 @@
+{"HELP_REQUEST": {
+    "message": "Request help"
+},
+"RANDOM_SELECT_MSG": {
+    "message": "You have been randomly selected"
+},
+"Q_AND_A_MSG": {
+    "message": "Message From Q and A"
+},
+"MSG_FROM": {
+    "message": "Message From"
+},
+"ENROLL_DEVICE": {
+    "message": "Enroll device"
+},
+"PLEASE_ENTER_SITE_ID": {
+    "message": "Please enter Site ID"
+},
+"PLEASE_ENTER_ACCOUNT_ID": {
+    "message": "Please enter Account ID"
+},
+"PLEASE_ENTER_REGION": {
+    "message": "Please enter Region"
+},
+"ENABLE_SUPPORT_TOOL": {
+    "message": "Enable Support Tool"
+},
+"ENROLL": {
+    "message": "Enroll"
+},
+"USER_ACKNOWLEDGEMENT": {
+    "message": "User Acknowledgement"
+},
+"PLACEHOLDER_WISHES_TO_CONNECT": {
+    "message": "PLACEHOLDER wishes to connect"
+},
+"ACCEPT": {
+    "message": "Accept"
+},
+"REJECT": {
+    "message": "Reject"
+},
+"IN_CLASS": {
+    "message": "In class"
+},
+"AVAILABLE": {
+    "message": "Available"
+},
+"LICENSED": {
+    "message": "Licensed"
+},
+"NOT_CONNECTED": {
+    "message": "Not connected"
+},
+"UNLICENSED": {
+    "message": "Unlicensed"
+},
+"UNAPPROVED_NETWORK": {
+    "message": "Unapproved network"
+},
+"OUT_OF_HOURS": {
+    "message": "Out of hours"
+},
+"WATCHING": {
+    "message": "Watching"
+},
+"ALERTTEACHER": {
+    "message": "Alert Teacher"
+},
+"NONE": {
+    "message": "(None)"
+},
+"WORKCOMPLETE": {
+    "message": "Work complete"
+},
+"NEEDHELP": {
+    "message": "Need help"
+},
+"URGENTHELP": {
+    "message": "Urgent help"
+},
+"CANCELPREVIOUSREQUEST": {
+    "message": "Cancel Previous Request"
+},
+"JOIN": {
+    "message": "Join"
+},
+"CANCEL": {
+    "message": "Cancel"
+},
+"CLASSCODE": {
+    "message": "Class code"
+},
+"CLASSCONNECTIONSTATUS": {
+    "message": "Waiting for teacher to join.."
+},
+"CLASSCONNECTIONINVALID": {
+    "message": "Invalid class code.."
+},
+"CHATTOOLTIP": {
+    "message": "Chat"
+},
+"HELPTOOLTIP": {
+    "message": "Help"
+},
+"INTERNETOOLTIP": {
+    "message": "Internet"
+},
+"OBJECTIVESTOOLTIP": {
+    "message": "Objectives"
+},
+"CHATBTNTOOLTIPDESC": {
+    "message": "Request a chat"
+},
+"HELBBTNTOOLTIPDESC": {
+    "message": "Request help from the teacher"
+},
+"INTERNETBTNTOOLTIPDESC": {
+    "message": "Internet Status"
+},
+"OBJECTIVESBTNTOOLTIPDESC": {
+    "message": "Show your objectives"
+},
+"NORESTRICTIONS": {
+    "message": "Internet access is unrestricted"
+},
+"APPROVEONLY": {
+    "message": "Internet restrictions apply\u000AClick Internet button for a list of approved web sites"
+},
+"BLOCKRESTRICTED": {
+    "message": "Internet restrictions apply"
+},
+"BLOCKALL": {
+    "message": "Internet access is blocked"
+},
+"PLEASE_ENTER_NAME": {
+    "message": "Please enter your name"
+},
+"OK": {
+    "message": "OK"
+},
+"SAFEGURADINGTOOLTIP": {
+    "message": "Safeguarding Resources"
+},
+"SAFEGURADINGTOOLTIPDESC": {
+    "message": "Safeguarding Resources Support Links"
+},
+"SAFEGURADING_TABLE_NAME": {
+    "message": "Name"
+},
+"SAFEGURADING_TABLE_PHONE": {
+    "message": "Telephone"
+},
+"SAFEGURADING_TABLE_DESCRIPTION": {
+    "message": "Description"
+},
+"SAFEGUARDING_RESOURCES_SEARCH": {
+    "message": "Search..."
+},
+"Cancel": {
+"message":"Cancel"
+},
+"Submit": {
+"message":"Submit"
+},
+"REPORT_A_CONCERN": {
+    "message": "Report a concern"
+},
+"YOUR_NAME": {
+    "message": "Your name"
+},
+"SO_WE_CAN_FOLLOW_UP": {
+    "message": "(So we can follow up with you)"
+},
+"TELL_US_YOUR_CONCERN": {
+    "message": "Tell us what's concerning you"
+},
+"SELECT_WHO_TO_SEND_TO": {
+    "message": "Select who you would like to report this concern to"
+},
+"CANCEL_CONCERN": {
+    "message": "Cancel"
+},
+"SUBMIT_CONCERN": {
+    "message": "Submit"
+},
+"CONCERN_BUTTON_TOOLTIP_DESC": {
+    "message": "Click if you have a concern"
+},
+"YOU_CAN_USE_TO_SHARE_A_CONCERN_BLURB": {
+    "message": "You can use this to report or share a concern with a member of staff at the school. Anything you share here will be treated in the strictest confidence."
+},
+"ENTER_CONCERN_DETAILS_BLURB": {
+    "message": "Enter the details of your concern below with any relevant information and then select the member of staff from the box at the bottom who your concern will be shared with."
+},
+"PLEASE_TRY_AGAIN_LATER": {
+    "message": "We’re sorry…your message cannot be sent at this time. Please try again later."
+},
+"WE_GOT_YOUR_CONCERN": {
+    "message": "We got it! Your concern is in our inbox and we’ll get back to you as soon as we can."
+},
+"SORRY_TECHNICAL_ISSUE": {
+    "message": "We’re sorry…something technical has gone wrong and we’re trying to fix it. Please try again later."
+},
+"SCROLL_PROMPT_UAP": {
+    "message": "Scroll to the bottom of the policy to acknowledge you have read it"
+},
+"ENTER_YOUR_NAME_PROMPT_UAP": {
+    "message": "Enter your name to confirm you have read and agree to this policy"
+},
+"ACKNOWLEDGE_PROMPT_AUP": {
+    "message": "I acknowledge I have read and agree to this policy"
+},
+"PRINT_AUP": {
+    "message": "Print"
+},
+"POLICY_NAME_PLACEHOLDER":{
+    "message": "Policy PLACEHOLDER"
+},
+"LESSON_OBJECTIVES":{
+    "message": "Objectives"
+},
+"LESSON_OUTCOMES":{
+    "message": "Outcomes"
+},
+"CAPTURE_DESKTOP":{
+    "message": "Capture desktop"
+}
+
+}
