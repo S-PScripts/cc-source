@@ -1,0 +1,47 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/nss.css" />
+<script src="js/lib/require/config.js"></script>
+<script type="text/javascript" data-main="ui/ApprovedWebList.js" src="js/lib/require/require.js"></script>
+<title data-i18n-content="APPROVED_WEBSITES"></title>
+<style>
+a{
+  display:inline-block
+}
+td{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+}
+#approvedList img{
+margin-right:20px;
+}
+#approvedList a{
+margin-left:20px;
+}
+</style>
+
+</head>
+<body style="height: 100%; margin: 0px">
+
+
+<div id="wrap" style="display: flex; flex-direction: column; height: 100%">
+	<header id="customHeader" style="display: flex; flex-direction: row; align-items: center; padding-top: 5px;padding-bottom: 5px; margin-top: 5px;">
+		<img src="images/LS-512-white.png" width="208" height="65" style=" margin-left: 2%;align-self: center">
+		<img src="images/approved.png" id = "headerIconImg" width="95" height="95" style="margin-left: 62.5%; align-self: center;">
+	</header>
+	<div id="main" style="flex-grow:1">
+		<table border="0" cellpadding="0" height="23" id="approvedList" style="margin-top:22px; text-overflow:initial">
+		</table>
+	</div>
+
+	<div id="customFooter" style="display: flex; flex-direction: row; align-self: center; height:36px">
+		<span id="footerCustomeSpan" style="position: relative; align-self: center; margin-left: 2%;"></span>
+	</div>
+
+	<div style="background-color: white; height: 27px">
+
+	</div>
+</div>
+</body>
+
+</html>

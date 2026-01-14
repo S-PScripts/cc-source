@@ -1,0 +1,76 @@
+{
+	"type": "object",
+	"properties":{
+		"options": {
+			"title": "Configuration Options",
+			"type": "object",
+			"properties": {
+				"accountID": {
+					"title": "Organisation account ID",
+					"description": "Organisation account ID",
+				 	"type": "string"
+				},
+				"siteID": {
+					"title": "Site ID",
+					"description": "Organisation site ID",
+				 	"type": "string"
+				},
+				"region": {
+					"title": "Region",
+					"description": "Region",
+				 	"type": "string"
+				},
+				"enableSupportTool": {
+					"title": "enableSupportTool",
+					"description": "Enable support tool",
+				 	"type": "boolean"
+				},
+				"unlocktimeout": {
+					"title": "unlocktimeout",
+					"description": "Unlock timeout",
+				 	"type": "string"
+				},
+				"acitivitymonitorfrequency": {
+					"title": "acitivitymonitorfrequency",
+					"description": "Frequency of activity monitor updates",
+				 	"type": "string"
+				},
+				"saveLogs": {
+					"title": "saveLogs",
+					"description": "Enable saving of logs to file",
+				 	"type": "string"
+				},
+				"reconnectTimeout": {
+					"title": "reconnectTimeout",
+					"description": "Amount of time students are given to reconnect before resetting stored connections",
+				 	"type": "string"
+				},
+				"recordAllWebsiteActivity": {
+					"title": "recordAllWebsiteActivity",
+					"description": "Record all website activity irrespective of active time",
+					"type": "boolean"
+				},
+				"runModifiedCode": {
+					"title": "runModifiedCode",
+					"description": "Run modified logic for managed device check",
+				 	"type": "boolean"
+				},
+				"alternateEmailDomain": {
+					"title": "alternateEmailDomain",
+					"description": "Use this for email domain if supplied",
+				 	"type": "string"
+				},
+				"bookwidgetsSSO": {
+					"title": "bookwidgetsSSO",
+					"description": "Used to set the name of the identity provider",
+					"type": "string"
+				},
+				"forceUserAcknowledgement": {
+					"title": "forceUserAcknowledgement",
+					"description": "Used to set forceUserAcknowledgement",
+					"type": "boolean"
+				}
+			}
+		}
+	}
+}

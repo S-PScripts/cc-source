@@ -1,0 +1,53 @@
+<html>
+<head>
+
+<title data-i18n-content="STUDENT_SURVEY"></title>
+<link rel="stylesheet" type="text/css" href="css/nss.css" />
+<script src="js/lib/require/config.js"></script>
+<script type="text/javascript" data-main="ui/survey" src="js/lib/require/require.js"></script>
+
+
+<style>
+
+h2{
+margin-bottom:5px;
+}
+
+</style>
+</head>
+<body style="height: 100%; margin: 0px">
+<div id="wrap" style="display: flex; flex-direction: column; height: 100%">
+	<header id="customHeader" style="display: flex; flex-direction: row; align-items: center; padding-top: 5px;padding-bottom: 5px; margin-top: 5px;">
+		<img src="images/LS-512-white.png" width="208" height="65" style=" margin-left: 2%;align-self: center">
+		<img src="images/survey.png" width="95" height="95" id = "headerIconImg" style="margin-left: 58.5%; align-self: center;">
+	</header>		
+	
+
+	<div id="title"></div>
+	<div id="main" style="flex-grow:1">
+		<h2 data-i18n-content="QUESTION" style="border-bottom:5px"></h2>
+
+		<h2 id="surveyQuestion"></h2><br/>
+
+		<h2 data-i18n-content="ANSWERS"></h2>
+
+		<div id="surveyAnswers" style="display: flex; flex-direction: column; margin-top: 10px; width:90%;"></div>
+
+
+	
+	</div>
+	<div style="display:flex; flex-direction:column ; position: relative; margin-top:5px">
+	   
+        <div style="background-color: white;"></div>  
+   
+	<div id="customFooter" style="display: flex; flex-direction: row; align-self: center;height:36px">
+		<span id="footerCustomeSpan" style="position: relative; align-self: center; margin-left: 2%;"></span>
+	</div>
+
+	<div style="background-color: white; height: 27px;"></div>
+    </div>  
+</div>
+</body>
+
+
+

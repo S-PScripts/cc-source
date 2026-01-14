@@ -1,0 +1,53 @@
+<html>
+<head>
+<title data-i18n-content="SURVEY_RESULTS"></title>
+<link rel="stylesheet" type="text/css" href="css/nss.css" />
+
+
+
+
+<script src="js/lib/require/config.js"></script>
+
+<script src="js/lib/chartjs/Chart.bundle.min.js"></script>
+<script src="js/lib/chartjs/Chartjs-plugin-labels.min.js"></script>
+<script type="text/javascript" data-main="ui/results" src="js/lib/require/require.js"></script>
+<style>
+
+h2{margin-bottom: 5px;}
+
+</style>
+
+</head>
+
+<body style="height: 100%; margin: 0px">
+
+
+<div id="wrap" style="display: flex; flex-direction: column; height: 100%">
+	<div id="customHeader" style="display: flex; flex-direction: row;  align-items: center; padding-top: 5px; padding-bottom: 5px; margin-top: 5px;">
+		<img src="images/LS-512-white.png" width="208" height="65" style=" margin-left: 2%;align-self: center">
+		<img src="images/survey.png" id = "headerIconImg" width="95" height="95" style="margin-left: 62.5%; align-self: center;">
+	</div>	
+
+	<div id="questionContainer" style="overflow:auto; margin-top: 0px;">
+		<h2 data-i18n-content="QUESTION"></h2>
+		<div id="surveyQuestion"></div>
+	</div>
+	<div id="surveyResults" style="overflow: auto;align-self: center; margin-top: 10px">
+		<div id="answerContainer" style="overflow:auto">
+			<h2 data-i18n-content="ANSWERS" style="margin-top: 0px;"></h2>
+			<div id="surveyAnswers"></div>
+        </div>
+           
+        <div id="canvas-holder">
+		<canvas id="chart"> </canvas>
+		</div>
+	</div>
+	<div id="customFooter" style="display: flex; flex-direction: row; align-self: center; height:36px">
+		<span id="footerCustomeSpan" style="position: relative; align-self: center; margin-left: 2%;"></span>
+	</div>
+
+	<div style="background-color: white; height: 27px;">
+    </div>
+</div>
+</body>
+</html>

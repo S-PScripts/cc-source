@@ -1,0 +1,86 @@
+<html>
+
+<head>
+
+  <link rel="stylesheet" type="text/css" href="css/nss.css" />
+  <title>Classroom.Cloud Student</title>
+
+  <script src="js/lib/require/config.js"></script>
+  <script src="js/lib/require/require.js"></script>
+  <script src="js/persistentScreen.js"></script>
+
+  <style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        background-color: #00aeef;
+        background: #00aeef;
+    }
+
+    #progressBar {
+       width: 78%;
+       background-color: #ddd;
+       margin-left: auto;
+       margin-right: auto;
+    }
+
+    #bar {
+       width: 0%;
+       height: 30px;
+       background-color: #04AA6D;
+    }
+
+    #progressBarText {
+       width: 78%;
+       margin-left: auto;
+       margin-right: auto;
+    }
+    
+
+</style>
+</head>
+
+<body>
+
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td class="supportTDGrey" id="ipaddressHeader">IP Address</td>
+        <td class="supportTDGrey" id="ipaddress"></td>
+    </tr>
+
+    <tr>
+        <td class="supportTDGrey" id="isManagedHeader">Managed</td>
+        <td class="supportTDGrey" id="isManaged"></td>
+        </tr> 
+    <tr>
+        <td class = "supportTDGrey" id="softwareVersionHeader">Software version</td>
+        <td class="supportTDGrey"   id="softwareVersion"></td>
+    </tr>
+    <tr>
+        <td class="supportTDGrey" id="allowedTermDatesHeader">Allowed Term Dates</td>
+        <td class="supportTDGrey" id="allowedTermDates"></td>
+    </tr>
+    <tr>
+        <td class="supportTDGrey" id="allowedTimesHeader">Allowed Times</td>
+        <td class="supportTDGrey" id="allowedTimes"></td>
+    </tr>
+    <tr>
+        <td class="supportTDGrey" id="utctimeHeader">Last config update</td>
+        <td class="supportTDGrey" id="utctime"></td>
+    </tr>
+</table>
+
+<div id="progressBar">
+    <div id="bar"></div>
+</div>
+
+<div id="progressBarText">
+    <div id="barText" style="font-style: italic; color: white;"></div>
+</div>
+
+  <img src="images/LS-512-white.png" height="60px" width="160px" style="position:absolute; top: 350px; right: 20px;">
+
+</body>
+
+</html>
